@@ -1,0 +1,370 @@
+{
+  "primary_keyword": "gas hot water heater repair",
+  "slug": "gas-hot-water-heater-repair",
+  "secondary_keywords": [
+    "gas hot water heater repair near austin, tx",
+    "gas hot water heater repair near round rock, tx"
+  ],
+  "intent": "transactional",
+  "target_word_count": 1000,
+  "outline": [
+    {
+      "h2": "Gas hot water heater repair: what you actually get",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "Gas hot water heater repair pricing: what drives the cost",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "Gas hot water heater repair: how to choose a provider",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "Gas hot water heater repair: what to check before you commit",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "How much does it cost to get a gas hot water heater replaced?",
+      "h3": [],
+      "source": "gap:unanswered_paa",
+      "gap": true,
+      "top_results_with_h2": 0
+    },
+    {
+      "h2": "Common Tank Water Heater Repair Questions",
+      "h3": [],
+      "source": "gap:minority_subtopic",
+      "gap": true,
+      "top_results_with_h2": 2
+    },
+    {
+      "h2": "Frequently asked questions about gas hot water heater repair",
+      "h3": [
+        "Do you call a plumber to fix a hot water heater?",
+        "How often should a water heater be serviced?",
+        "How can I diagnose a problem with my water heater?"
+      ],
+      "source": "people_also_ask",
+      "gap": false,
+      "faq": true
+    }
+  ],
+  "placement_rules": {
+    "primary_keyword_in": [
+      "title",
+      "h1",
+      "first_100_words",
+      "meta_description",
+      "at_least_one_h2"
+    ],
+    "secondary_keywords": "use each at most twice, only where it reads naturally",
+    "intro_max_words": 150,
+    "faq": "final H2, one H3 per question, answers 40-90 words",
+    "structure": "at least one list or table; one analogy or named mental model per major H2",
+    "meta_description_chars": [
+      50,
+      160
+    ],
+    "internal_links": "link each internal_link_target once, in body paragraphs, never in headings",
+    "directory_links_min": 2,
+    "external_links": "cite each external source once with descriptive anchor text"
+  },
+  "external_sources": [
+    {
+      "title": "Fort Worth Gas Water Heater Repair | Restoring Efficiency",
+      "url": "https://fortworthtxwaterheater.com/gas-water-heater-repair.html",
+      "domain": "fortworthtxwaterheater.com"
+    },
+    {
+      "title": "Tank Water Heater Repair in San Antonio, TX - Jon Wayne",
+      "url": "https://jonwayne.com/plumbing/tank-water-heater-repair/",
+      "domain": "jonwayne.com"
+    },
+    {
+      "title": "Water Heater Repair & Installation - Gilbert Plumbing Company",
+      "url": "https://gilbertplumbingaz.com/residential/water-heater-repair-installation/",
+      "domain": "gilbertplumbingaz.com"
+    },
+    {
+      "title": "San Antonio Water Heater Repairs and Leak Service",
+      "url": "https://reliantplumbing.com/water-heaters/san-antonio/",
+      "domain": "reliantplumbing.com"
+    }
+  ],
+  "internal_link_targets": [
+    {
+      "url": "/blog/camper-water-heater-repair/",
+      "anchor": "Camper water heater repair: Costs, Choices and What to Check First",
+      "type": "article",
+      "relevance": 3,
+      "rating": 0
+    },
+    {
+      "url": "/blog/instant-water-heater-repair/",
+      "anchor": "Instant water heater repair: Costs, Choices and What to Check First",
+      "type": "article",
+      "relevance": 3,
+      "rating": 0
+    },
+    {
+      "url": "/blog/repair-rv-water-heater/",
+      "anchor": "Repair rv water heater: Costs, Choices and What to Check First",
+      "type": "article",
+      "relevance": 3,
+      "rating": 0
+    },
+    {
+      "url": "/blog/travel-trailer-water-heater-repair/",
+      "anchor": "Travel trailer water heater repair: Costs, Choices and What to Check First",
+      "type": "article",
+      "relevance": 3,
+      "rating": 0
+    },
+    {
+      "url": "/directory/plumbers/",
+      "anchor": "plumbers in Austin directory",
+      "type": "directory_category",
+      "relevance": 0,
+      "rating": 0
+    },
+    {
+      "url": "/directory/plumbers/plumb-masters-inc/",
+      "anchor": "Plumb Masters, Inc.",
+      "type": "directory_listing",
+      "relevance": 0,
+      "rating": 4.8
+    },
+    {
+      "url": "/directory/plumbers/beyond-wow-plumbing-drains/",
+      "anchor": "Beyond Wow Plumbing & Drains",
+      "type": "directory_listing",
+      "relevance": 0,
+      "rating": 4.8
+    },
+    {
+      "url": "/directory/plumbers/reliant-plumbing/",
+      "anchor": "Reliant Plumbing",
+      "type": "directory_listing",
+      "relevance": 0,
+      "rating": 4.7
+    }
+  ],
+  "schema_type": "Service",
+  "gaps_to_address": [
+    {
+      "type": "unanswered_paa",
+      "topic": "How much does it cost to get a gas hot water heater replaced?",
+      "section": "How much does it cost to get a gas hot water heater replaced?",
+      "reason": "People Also Ask question that none of the top 4 results answer under a heading."
+    },
+    {
+      "type": "unanswered_paa",
+      "topic": "Do you call a plumber to fix a hot water heater?",
+      "section": "Frequently asked questions about gas hot water heater repair",
+      "reason": "People Also Ask question that none of the top 4 results answer under a heading."
+    },
+    {
+      "type": "unanswered_paa",
+      "topic": "How can I diagnose a problem with my water heater?",
+      "section": "Frequently asked questions about gas hot water heater repair",
+      "reason": "People Also Ask question that none of the top 4 results answer under a heading."
+    },
+    {
+      "type": "minority_subtopic",
+      "topic": "Common Tank Water Heater Repair Questions",
+      "section": "Common Tank Water Heater Repair Questions",
+      "reason": "Only 2 of the top 4 results cover this; the rest skip it."
+    },
+    {
+      "type": "underanswered_paa",
+      "topic": "How often should a water heater be serviced?",
+      "section": "Frequently asked questions about gas hot water heater repair",
+      "reason": "People Also Ask question answered by only 1 of the top 4 results."
+    }
+  ],
+  "serp_summary": {
+    "location": "Austin, Texas, United States",
+    "top_results": [
+      {
+        "position": 1,
+        "title": "San Antonio Water Heater Repairs and Leak Service",
+        "url": "https://reliantplumbing.com/water-heaters/san-antonio/",
+        "domain": "reliantplumbing.com",
+        "resolved": true,
+        "snippet": "Water Heater leaking or not working in San Antonio? Reliant Plumbing offers same-day repairs, 24/7 emergency service, and a free estimate."
+      },
+      {
+        "position": 2,
+        "title": "Water Heater Repair & Installation - Gilbert Plumbing Company",
+        "url": "https://gilbertplumbingaz.com/residential/water-heater-repair-installation/",
+        "domain": "gilbertplumbingaz.com",
+        "resolved": true,
+        "snippet": "we provide fast and reliable water heater repair & installation services. Electric and gas units Tankless (on-demand) systems"
+      },
+      {
+        "position": 3,
+        "title": "Tank Water Heater Repair in San Antonio, TX - Jon Wayne",
+        "url": "https://jonwayne.com/plumbing/tank-water-heater-repair/",
+        "domain": "jonwayne.com",
+        "resolved": true,
+        "snippet": "Contact Jon Wayne for all your water heater repairs, from system flushing to replacing faulty components. (210) 239-2892 … with 1-year warranty"
+      },
+      {
+        "position": 4,
+        "title": "Fort Worth Gas Water Heater Repair | Restoring Efficiency",
+        "url": "https://fortworthtxwaterheater.com/gas-water-heater-repair.html",
+        "domain": "fortworthtxwaterheater.com",
+        "resolved": true,
+        "snippet": "Gas Water Heater Repair skilled technicians quickly resolve fuel line issues and burner malfunctions … 682-302-1713 FREE ESTIMATE and smoothly all year long. ..."
+      },
+      {
+        "position": 5,
+        "title": "Top-Rated Water heater pros in Oklahoma City",
+        "url": "https://www.google.com/goto?url=CAEShAEBxCJF19JN2m9tX6Jx5RI9lhsrxmuzPoBWLJiO3reUSBnyyPdSPQtUZ9btEYh9cH4r6DaqjYtX3K20kC23r_cJecxzEp-sR7_DOGQrL3404lHVeoB7qk03qwBU6N5uTNj1goi_2e6j-GkgnmcVTeKpl4hDCTApKa79tzCUBlh5MbgKFqQ",
+        "domain": "homeadvisor.com",
+        "resolved": false,
+        "snippet": "Oklahoma City homeowners and commercial clients across the OKC metro rely on us for water heater services, gas line repair, residential plumbing, and full-scale ..."
+      },
+      {
+        "position": 6,
+        "title": "Water Heater Repair & Service in SW Indiana & S Illinois",
+        "url": "https://www.google.com/goto?url=CAESiAEBxCJF1zE9doWqzTCdYaOUBV0VRhCYiybKQW_E8bWzphuFpMC7BpC6RdC8NFTc0yDpoEsNIz0F-2EIeIsq3qeA4ACC3n2kqmPbWD4vXbcrxe5NCsjhpEI93c58zVkNJ_KZvkwwhqCZW_HTV6Anb-q13r1EymF17LUo0GYccCjmydgzlDLqee7R",
+        "domain": "callperfectclimate.com",
+        "resolved": false,
+        "snippet": "We fix leaks, no hot water, and strange noises quickly. Get expert service today! (812) 615-2733. We quickly diagnose issues and restore your hot water with ..."
+      },
+      {
+        "position": 7,
+        "title": "TOP 10 BEST Gas Water Heater Repair in Tulsa, OK",
+        "url": "https://www.google.com/goto?url=CAESjwEBxCJF18ZeDMZewVR8vCvBy3upqo3kLVBpJ5wFI7dP6IU3Q3cwVPRx4JcCrl46vdiyWP2IjIXHSHVp_dA7dxv0BQSo4e5xbeK4IDdohD8eaDkzmPRKBGEdm2G95X3cTOOn_TFy1Hdy9QHBv7mSN2AA-HKwzeK23I7GJu9RLp7fykU0GRzzPIvwc0ik6M7EBQ",
+        "domain": "yelp.com",
+        "resolved": false,
+        "snippet": "Top 10 Best Gas Water Heater Repair Near Tulsa, Oklahoma (Updated 2026) Maston's Plumbing & Drain. Free estimates Quality Heating, estimates from local ..."
+      },
+      {
+        "position": 8,
+        "title": "Water Heater Repair Services in Austin & Central Texas",
+        "url": "https://www.google.com/goto?url=CAESgAEBxCJF12O-0ZL0VRk300kqwG8qYCCZxFni3w-Nxgfcndyx7JHG5yHn0XzE_xG2QSUZIywUeea_hYpJPg_K6C-WW_eR9salZPN1s_OZEaUpqE39WBiInWad88i85Npd-d_Khjf7PA0tMmLiyL8kZiRMxjegUd-blXXX6ubcOwByVQ",
+        "domain": "allstartradepros.com",
+        "resolved": false,
+        "snippet": "No hot water, leaks, or rumbling noises? Our plumbers find the problem and repair gas and electric tank water heaters"
+      }
+    ],
+    "people_also_ask": [
+      {
+        "question": "How much does it cost to get a gas hot water heater replaced?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      },
+      {
+        "question": "Do you call a plumber to fix a hot water heater?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      },
+      {
+        "question": "How often should a water heater be serviced?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      },
+      {
+        "question": "How can I diagnose a problem with my water heater?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      }
+    ],
+    "related_searches": [
+      "gas hot water heater repair near austin, tx",
+      "gas hot water heater repair near round rock, tx",
+      "Water heater replacement San Antonio",
+      "Water heater flush San Antonio"
+    ],
+    "top5_pages": [
+      {
+        "url": "https://reliantplumbing.com/water-heaters/san-antonio/",
+        "word_count": 798,
+        "h2": [
+          "24/7, Same-Day Water Heater Repair and Leak Service in San Antonio & Surrounding Areas",
+          "Water heater leaking in San Antonio? Here's what to do",
+          "Common Water Heater Repair Issues We Fix in San Antonio",
+          "The Ultimate Guide to Water Heaters",
+          "Select Your Type of Water Heater:",
+          "Schedule Your Water Heater Service Today",
+          "Choose the Best Local Plumbers"
+        ]
+      },
+      {
+        "url": "https://gilbertplumbingaz.com/residential/water-heater-repair-installation/",
+        "word_count": 436,
+        "h2": [
+          "Signs Your Water Heater Needs Service",
+          "Repair vs. Replacement: What’s the Right Move?",
+          "Water Heater Installation Services",
+          "Protecting Your Plumbing System",
+          "Contact Us Today"
+        ]
+      },
+      {
+        "url": "https://jonwayne.com/plumbing/tank-water-heater-repair/",
+        "word_count": 1061,
+        "h2": [
+          "Benefits of Repairing Your Tank Water Heater",
+          "Troubleshooting Tips for your Tank Water Heater",
+          "Why San Antonio Chooses Jon Wayne",
+          "What Customers Say About Jon Wayne",
+          "Get Started Today",
+          "Tank Water Heater Repair With Jon Wayne in Four Easy Steps",
+          "Common Tank Water Heater Repair Questions",
+          "Related Services"
+        ]
+      },
+      {
+        "url": "https://fortworthtxwaterheater.com/gas-water-heater-repair.html",
+        "word_count": 1356,
+        "h2": [
+          "Gas Water Heater Repair Services",
+          "Fort Worth TX Water Heater Services",
+          "Burner Assembly and Pilot Gas Water Heater Repair",
+          "Our Best Water Heater Coupon",
+          "How It's Work",
+          "Thermocouple and Control Valve Gas Water Heater Repair",
+          "What Our Client Says",
+          "Restoring System Efficiency: 3 Critical Gas Water Heater Repair Steps",
+          "4 Common Questions Answered",
+          "How Long Do Standard Water Heaters Typically Last?",
+          "What Causes a Water Heater to Suddenly Stop Producing Hot Water?",
+          "How Often Should You Descale or Flush your System?",
+          "What Should you Do Immediately If your Water Heater Starts Leaking?",
+          "Get Fast Water Heater Service in Fort Worth",
+          "Areas & Zip Codes",
+          "Our Latest Work"
+        ]
+      }
+    ],
+    "average_top5_word_count": 913,
+    "minimum_length_rule": 1000,
+    "pages_analysed": 4
+  },
+  "metrics": {
+    "volume": 12100,
+    "kd": 7.0,
+    "score": 2268.75,
+    "cpc": 41.65
+  }
+}

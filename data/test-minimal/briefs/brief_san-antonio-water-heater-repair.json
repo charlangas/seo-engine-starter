@@ -1,0 +1,345 @@
+{
+  "primary_keyword": "san antonio water heater repair",
+  "slug": "san-antonio-water-heater-repair",
+  "secondary_keywords": [],
+  "intent": "commercial",
+  "target_word_count": 1200,
+  "outline": [
+    {
+      "h2": "San antonio water heater repair: what to look for",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "San antonio water heater repair: how the main options compare",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "San antonio water heater repair pricing: what drives the cost",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "San antonio water heater repair: how to choose the right fit",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "Who do you hire to fix a water heater?",
+      "h3": [],
+      "source": "gap:unanswered_paa",
+      "gap": true,
+      "top_results_with_h2": 0
+    },
+    {
+      "h2": "What is the typical life expectancy of a water heater?",
+      "h3": [],
+      "source": "gap:unanswered_paa",
+      "gap": true,
+      "top_results_with_h2": 0
+    },
+    {
+      "h2": "Frequently asked questions about san antonio water heater repair",
+      "h3": [
+        "Can you fix a water heater?",
+        "What's the average cost to fix a water heater?",
+        "What does san antonio water heater repair involve?"
+      ],
+      "source": "people_also_ask",
+      "gap": false,
+      "faq": true
+    }
+  ],
+  "placement_rules": {
+    "primary_keyword_in": [
+      "title",
+      "h1",
+      "first_100_words",
+      "meta_description",
+      "at_least_one_h2"
+    ],
+    "secondary_keywords": "use each at most twice, only where it reads naturally",
+    "intro_max_words": 150,
+    "faq": "final H2, one H3 per question, answers 40-90 words",
+    "structure": "at least one list or table; one analogy or named mental model per major H2",
+    "meta_description_chars": [
+      50,
+      160
+    ],
+    "internal_links": "link each internal_link_target once, in body paragraphs, never in headings",
+    "directory_links_min": 2,
+    "external_links": "cite each external source once with descriptive anchor text"
+  },
+  "external_sources": [
+    {
+      "title": "Choosing An Alternative Water Heater For Your Home",
+      "url": "https://bluefrogsanantonio.com/water-heater-repair-choosing-an-alternative-water-heater-for-your-home-san-antonio-tx/",
+      "domain": "bluefrogsanantonio.com"
+    },
+    {
+      "title": "Find water heater installation companies in San Antonio, TX",
+      "url": "https://homeguide.com/tx/san-antonio/water-heater-installation/",
+      "domain": "homeguide.com"
+    },
+    {
+      "title": "Get Gas Water Heater Repair in San Antonio, TX",
+      "url": "https://solarwaterheaterinstallation.com/gas-water-heater-repair-san-antonio-tx",
+      "domain": "solarwaterheaterinstallation.com"
+    },
+    {
+      "title": "Water Heater Repair, San Antonio, TX 78249, US",
+      "url": "https://www.mapquest.com/us/texas/water-heater-repair-646916927",
+      "domain": "mapquest.com"
+    }
+  ],
+  "internal_link_targets": [
+    {
+      "url": "/blog/camper-water-heater-repair/",
+      "anchor": "Camper water heater repair: Costs, Choices and What to Check First",
+      "type": "article",
+      "relevance": 3,
+      "rating": 0
+    },
+    {
+      "url": "/blog/instant-water-heater-repair/",
+      "anchor": "Instant water heater repair: Costs, Choices and What to Check First",
+      "type": "article",
+      "relevance": 3,
+      "rating": 0
+    },
+    {
+      "url": "/blog/repair-rv-water-heater/",
+      "anchor": "Repair rv water heater: Costs, Choices and What to Check First",
+      "type": "article",
+      "relevance": 3,
+      "rating": 0
+    },
+    {
+      "url": "/blog/travel-trailer-water-heater-repair/",
+      "anchor": "Travel trailer water heater repair: Costs, Choices and What to Check First",
+      "type": "article",
+      "relevance": 3,
+      "rating": 0
+    },
+    {
+      "url": "/directory/plumbers/",
+      "anchor": "plumbers in Austin directory",
+      "type": "directory_category",
+      "relevance": 0,
+      "rating": 0
+    },
+    {
+      "url": "/directory/plumbers/plumb-masters-inc/",
+      "anchor": "Plumb Masters, Inc.",
+      "type": "directory_listing",
+      "relevance": 0,
+      "rating": 4.8
+    },
+    {
+      "url": "/directory/plumbers/beyond-wow-plumbing-drains/",
+      "anchor": "Beyond Wow Plumbing & Drains",
+      "type": "directory_listing",
+      "relevance": 0,
+      "rating": 4.8
+    },
+    {
+      "url": "/directory/plumbers/reliant-plumbing/",
+      "anchor": "Reliant Plumbing",
+      "type": "directory_listing",
+      "relevance": 0,
+      "rating": 4.7
+    }
+  ],
+  "schema_type": "Service",
+  "gaps_to_address": [
+    {
+      "type": "unanswered_paa",
+      "topic": "Who do you hire to fix a water heater?",
+      "section": "Who do you hire to fix a water heater?",
+      "reason": "People Also Ask question that none of the top 2 results answer under a heading."
+    },
+    {
+      "type": "unanswered_paa",
+      "topic": "What is the typical life expectancy of a water heater?",
+      "section": "What is the typical life expectancy of a water heater?",
+      "reason": "People Also Ask question that none of the top 2 results answer under a heading."
+    },
+    {
+      "type": "unanswered_paa",
+      "topic": "Can you fix a water heater?",
+      "section": "Frequently asked questions about san antonio water heater repair",
+      "reason": "People Also Ask question that none of the top 2 results answer under a heading."
+    },
+    {
+      "type": "unanswered_paa",
+      "topic": "What's the average cost to fix a water heater?",
+      "section": "Frequently asked questions about san antonio water heater repair",
+      "reason": "People Also Ask question that none of the top 2 results answer under a heading."
+    }
+  ],
+  "serp_summary": {
+    "location": "Austin, Texas, United States",
+    "top_results": [
+      {
+        "position": 1,
+        "title": "Gas Water Heater Repair in San Antonio, TX",
+        "url": "https://keyrosysteminstallation.com/san-antonio-tx-gas-water-heater-repair",
+        "domain": "keyrosysteminstallation.com",
+        "resolved": true,
+        "snippet": "Gas Water Heater Repair services in San Antonio, TX for repairs, replacements, upgrades, and new project requests.",
+        "type": "blog_post"
+      },
+      {
+        "position": 2,
+        "title": "TOP 10 BEST Cheap Water Heater in San Antonio, TX",
+        "url": "https://m.yelp.com/search?find_desc=cheap+water+heater&find_loc=San+Antonio%2C+TX",
+        "domain": "m.yelp.com",
+        "resolved": true,
+        "snippet": "Global Cooling & Plumbing+. 3.9 (11 reviews). Plumbing · Heating & Air Conditioning/HVAC ; Miller Cooling & Heating · Water Heater Installation/Repair · Heating ...",
+        "type": "directory"
+      },
+      {
+        "position": 3,
+        "title": "Gas Water Heater Repair in San Antonio, TX | Cistern Plumbing",
+        "url": "https://cisternplumbing.com/san-antonio-tx-gas-water-heater-repair",
+        "domain": "cisternplumbing.com",
+        "resolved": true,
+        "snippet": "Get expert Gas Water Heater Repair in San Antonio, TX. Professional services include diagnosing and fixing issues like leaks, pilot light problems, ...",
+        "type": "blog_post"
+      },
+      {
+        "position": 4,
+        "title": "Who can fix my hot water heater in San Antonio?",
+        "url": "https://www.facebook.com/groups/saaskalocal/posts/1417302752712811/",
+        "domain": "facebook.com",
+        "resolved": true,
+        "snippet": "My hot water heater is going out , I’m looking for someone who can look at it? If anyone has information on a handy man please help lol",
+        "type": "blog_post"
+      },
+      {
+        "position": 5,
+        "title": "Water Heater Repair, San Antonio, TX 78249, US",
+        "url": "https://www.mapquest.com/us/texas/water-heater-repair-646916927",
+        "domain": "mapquest.com",
+        "resolved": true,
+        "snippet": "Water Heater Repair, located in San Antonio, TX, offers expert services for residential water heating systems. Their technicians handle various issues, ...",
+        "type": "directory"
+      },
+      {
+        "position": 6,
+        "title": "Get Gas Water Heater Repair in San Antonio, TX",
+        "url": "https://solarwaterheaterinstallation.com/gas-water-heater-repair-san-antonio-tx",
+        "domain": "solarwaterheaterinstallation.com",
+        "resolved": true,
+        "snippet": "Service Cost Range - Gas water heater repair costs typically range from $150 to $600, depending on the issue and parts needed. · Replacement Expenses · Labor Fees ...",
+        "type": "blog_post"
+      },
+      {
+        "position": 7,
+        "title": "Find water heater installation companies in San Antonio, TX",
+        "url": "https://homeguide.com/tx/san-antonio/water-heater-installation/",
+        "domain": "homeguide.com",
+        "resolved": true,
+        "snippet": "Here is the best list of San Antonio's water heater installers as rated by the San Antonio, TX community. Want to see the top 10?",
+        "type": "other"
+      },
+      {
+        "position": 8,
+        "title": "Water Heater Repair and Tankless Installation in San Antonio",
+        "url": "https://www.youtube.com/watch?v=UXapPpF71LI",
+        "domain": "youtube.com",
+        "resolved": true,
+        "snippet": "No hot water, popping tanks and tankless upgrades. We repair and replace tank and tankless water heaters and size gas, venting and scale ...",
+        "type": "youtube"
+      },
+      {
+        "position": 9,
+        "title": "Choosing An Alternative Water Heater For Your Home",
+        "url": "https://bluefrogsanantonio.com/water-heater-repair-choosing-an-alternative-water-heater-for-your-home-san-antonio-tx/",
+        "domain": "bluefrogsanantonio.com",
+        "resolved": true,
+        "snippet": "If you live in San Antonio, TX, and are searching for water heater repair or installation, don't hesitate to contact bluefrog Plumbing + Drain.",
+        "type": "blog_post"
+      }
+    ],
+    "people_also_ask": [
+      {
+        "question": "Who do you hire to fix a water heater?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      },
+      {
+        "question": "What is the typical life expectancy of a water heater?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      },
+      {
+        "question": "Can you fix a water heater?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      },
+      {
+        "question": "What's the average cost to fix a water heater?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      }
+    ],
+    "related_searches": [],
+    "top5_pages": [
+      {
+        "url": "https://www.mapquest.com/us/texas/water-heater-repair-646916927",
+        "word_count": 167,
+        "h2": []
+      },
+      {
+        "url": "https://homeguide.com/tx/san-antonio/water-heater-installation/",
+        "word_count": 2176,
+        "h2": [
+          "Top 10 hot water heater replacement in San Antonio, TX",
+          "Your Water Heater Installation Or Replacement questions, answered",
+          "Reviews for San Antonio hot water heater replacement",
+          "Nearby water heater installation companies in and around San Antonio",
+          "San Antonio water heater installers by service"
+        ]
+      }
+    ],
+    "average_top5_word_count": 1172,
+    "minimum_length_rule": 1200,
+    "pages_analysed": 2,
+    "result_types": {
+      "blog_post": 5,
+      "directory": 2,
+      "other": 1,
+      "youtube": 1
+    }
+  },
+  "metrics": {
+    "volume": 480,
+    "kd": 0.0,
+    "score": 720.0,
+    "cpc": 42.35
+  },
+  "format": "blog_post",
+  "off_site": [
+    {
+      "type": "youtube",
+      "position": 8,
+      "url": "https://www.youtube.com/watch?v=UXapPpF71LI",
+      "title": "Water Heater Repair and Tankless Installation in San Antonio"
+    }
+  ],
+  "needs_tool": false
+}

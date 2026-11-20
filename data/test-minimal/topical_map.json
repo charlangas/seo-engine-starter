@@ -1,0 +1,447 @@
+{
+  "site": "Test Minimal",
+  "domain": "example-plumbing.com",
+  "generated": "2026-11-19",
+  "clusters": [
+    {
+      "cluster": "plumbers near me",
+      "slug": "plumbers-near-me",
+      "pillar": "plumbers near me",
+      "total_volume": 1013790,
+      "pieces": [
+        {
+          "primary_keyword": "plumbers near me",
+          "slug": "plumbers-near-me",
+          "status": "written",
+          "date": "2026-11-17",
+          "volume": 823000,
+          "intent": "commercial",
+          "url": "/blog/plumbers-near-me/"
+        },
+        {
+          "primary_keyword": "plumber near me emergency",
+          "slug": "plumber-near-me-emergency",
+          "status": "written",
+          "date": "2026-11-15",
+          "volume": 165000,
+          "intent": "commercial",
+          "url": "/blog/plumber-near-me-emergency/"
+        },
+        {
+          "primary_keyword": "emergency service plumber",
+          "slug": "emergency-service-plumber",
+          "status": "written",
+          "date": "2026-12-03",
+          "volume": 14800,
+          "intent": "commercial",
+          "url": "/blog/emergency-service-plumber/"
+        },
+        {
+          "primary_keyword": "new york emergency plumber",
+          "slug": "new-york-emergency-plumber",
+          "status": "written",
+          "date": "2026-12-23",
+          "volume": 1300,
+          "intent": "commercial",
+          "url": "/blog/new-york-emergency-plumber/"
+        },
+        {
+          "primary_keyword": "emergency plumber san jose",
+          "slug": "emergency-plumber-san-jose",
+          "status": "written",
+          "date": "2026-12-27",
+          "volume": 1000,
+          "intent": "commercial",
+          "url": "/blog/emergency-plumber-san-jose/"
+        },
+        {
+          "primary_keyword": "san diego emergency plumber",
+          "slug": "san-diego-emergency-plumber",
+          "status": "written",
+          "date": "2026-12-31",
+          "volume": 880,
+          "intent": "commercial",
+          "url": "/blog/san-diego-emergency-plumber/"
+        },
+        {
+          "primary_keyword": "emergency plumber scottsdale az",
+          "slug": "emergency-plumber-scottsdale-az",
+          "status": "written",
+          "date": "2027-02-01",
+          "volume": 880,
+          "intent": "commercial",
+          "url": "/blog/emergency-plumber-scottsdale-az/"
+        },
+        {
+          "primary_keyword": "emergency plumber chicago illinois",
+          "slug": "emergency-plumber-chicago-illinois",
+          "status": "written",
+          "date": "2027-02-09",
+          "volume": 880,
+          "intent": "commercial",
+          "url": "/blog/emergency-plumber-chicago-illinois/"
+        },
+        {
+          "primary_keyword": "emergency plumber for burst pipe",
+          "slug": "emergency-plumber-for-burst-pipe",
+          "status": "written",
+          "date": "2027-01-04",
+          "volume": 720,
+          "intent": "commercial",
+          "url": "/blog/emergency-plumber-for-burst-pipe/"
+        },
+        {
+          "primary_keyword": "emergency plumber san tan valley",
+          "slug": "emergency-plumber-san-tan-valley",
+          "status": "written",
+          "date": "2027-01-06",
+          "volume": 720,
+          "intent": "transactional",
+          "url": "/blog/emergency-plumber-san-tan-valley/"
+        },
+        {
+          "primary_keyword": "emergency plumber chandler az",
+          "slug": "emergency-plumber-chandler-az",
+          "status": "written",
+          "date": "2027-01-08",
+          "volume": 590,
+          "intent": "transactional",
+          "url": "/blog/emergency-plumber-chandler-az/"
+        },
+        {
+          "primary_keyword": "emergency plumber milwaukee",
+          "slug": "emergency-plumber-milwaukee",
+          "status": "written",
+          "date": "2027-01-10",
+          "volume": 590,
+          "intent": "transactional",
+          "url": "/blog/emergency-plumber-milwaukee/"
+        },
+        {
+          "primary_keyword": "emergency plumber portland oregon",
+          "slug": "emergency-plumber-portland-oregon",
+          "status": "written",
+          "date": "2027-01-12",
+          "volume": 590,
+          "intent": "commercial",
+          "url": "/blog/emergency-plumber-portland-oregon/"
+        },
+        {
+          "primary_keyword": "emergency plumber los angeles",
+          "slug": "emergency-plumber-los-angeles",
+          "status": "written",
+          "date": "2027-01-14",
+          "volume": 480,
+          "intent": "commercial",
+          "url": "/blog/emergency-plumber-los-angeles/"
+        },
+        {
+          "primary_keyword": "emergency plumber in philadelphia",
+          "slug": "emergency-plumber-in-philadelphia",
+          "status": "written",
+          "date": "2027-01-20",
+          "volume": 390,
+          "intent": "transactional",
+          "url": "/blog/emergency-plumber-in-philadelphia/"
+        },
+        {
+          "primary_keyword": "emergency plumber in brooklyn",
+          "slug": "emergency-plumber-in-brooklyn",
+          "status": "written",
+          "date": "2027-02-07",
+          "volume": 390,
+          "intent": "transactional",
+          "url": "/blog/emergency-plumber-in-brooklyn/"
+        },
+        {
+          "primary_keyword": "emergency plumber orange county",
+          "slug": "emergency-plumber-orange-county",
+          "status": "written",
+          "date": "2027-01-22",
+          "volume": 320,
+          "intent": "commercial",
+          "url": "/blog/emergency-plumber-orange-county/"
+        },
+        {
+          "primary_keyword": "emergency plumber pasadena ca",
+          "slug": "emergency-plumber-pasadena-ca",
+          "status": "written",
+          "date": "2027-01-24",
+          "volume": 320,
+          "intent": "commercial",
+          "url": "/blog/emergency-plumber-pasadena-ca/"
+        },
+        {
+          "primary_keyword": "emergency plumber albuquerque",
+          "slug": "emergency-plumber-albuquerque",
+          "status": "written",
+          "date": "2027-01-28",
+          "volume": 260,
+          "intent": "commercial",
+          "url": "/blog/emergency-plumber-albuquerque/"
+        },
+        {
+          "primary_keyword": "emergency plumber charlotte nc",
+          "slug": "emergency-plumber-charlotte-nc",
+          "status": "written",
+          "date": "2027-01-30",
+          "volume": 260,
+          "intent": "commercial",
+          "url": "/blog/emergency-plumber-charlotte-nc/"
+        },
+        {
+          "primary_keyword": "emergency plumber louisville",
+          "slug": "emergency-plumber-louisville",
+          "status": "written",
+          "date": "2027-02-03",
+          "volume": 210,
+          "intent": "commercial",
+          "url": "/blog/emergency-plumber-louisville/"
+        },
+        {
+          "primary_keyword": "emergency plumber richardson tx",
+          "slug": "emergency-plumber-richardson-tx",
+          "status": "written",
+          "date": "2027-02-05",
+          "volume": 210,
+          "intent": "transactional",
+          "url": "/blog/emergency-plumber-richardson-tx/"
+        }
+      ]
+    },
+    {
+      "cluster": "plumber snake drain",
+      "slug": "plumber-snake-drain",
+      "pillar": "plumber snake drain",
+      "total_volume": 110000,
+      "pieces": [
+        {
+          "primary_keyword": "plumber snake drain",
+          "slug": "plumber-snake-drain",
+          "status": "written",
+          "date": "2026-12-11",
+          "volume": 110000,
+          "intent": "transactional",
+          "url": "/blog/plumber-snake-drain/"
+        }
+      ]
+    },
+    {
+      "cluster": "hot water heater",
+      "slug": "hot-water-heater",
+      "pillar": "hot water heater",
+      "total_volume": 490980,
+      "pieces": [
+        {
+          "primary_keyword": "hot water heater",
+          "slug": "hot-water-heater",
+          "status": "written",
+          "date": "2026-12-17",
+          "volume": 90500,
+          "intent": "transactional",
+          "url": "/blog/hot-water-heater/"
+        },
+        {
+          "primary_keyword": "electric tankless water heater",
+          "slug": "electric-tankless-water-heater",
+          "status": "written",
+          "date": "2026-11-21",
+          "volume": 60500,
+          "intent": "transactional",
+          "url": "/blog/electric-tankless-water-heater/"
+        },
+        {
+          "primary_keyword": "flash heater water electric",
+          "slug": "flash-heater-water-electric",
+          "status": "written",
+          "date": "2026-11-23",
+          "volume": 60500,
+          "intent": "commercial",
+          "url": "/blog/flash-heater-water-electric/"
+        },
+        {
+          "primary_keyword": "tankless water heater installation",
+          "slug": "tankless-water-heater-installation",
+          "status": "written",
+          "date": "2026-11-19",
+          "volume": 40500,
+          "intent": "transactional",
+          "url": "/blog/tankless-water-heater-installation/"
+        },
+        {
+          "primary_keyword": "gas water heater",
+          "slug": "gas-water-heater",
+          "status": "written",
+          "date": "2026-12-07",
+          "volume": 40500,
+          "intent": "transactional",
+          "url": "/blog/gas-water-heater/"
+        },
+        {
+          "primary_keyword": "heat pump water heater",
+          "slug": "heat-pump-water-heater",
+          "status": "written",
+          "date": "2026-12-13",
+          "volume": 40500,
+          "intent": "transactional",
+          "url": "/blog/heat-pump-water-heater/"
+        },
+        {
+          "primary_keyword": "water heater replacement cost",
+          "slug": "water-heater-replacement-cost",
+          "status": "written",
+          "date": "2026-12-15",
+          "volume": 40500,
+          "intent": "commercial",
+          "url": "/blog/water-heater-replacement-cost/"
+        },
+        {
+          "primary_keyword": "camper water heater repair",
+          "slug": "camper-water-heater-repair",
+          "status": "written",
+          "date": "2026-11-25",
+          "volume": 18100,
+          "intent": "transactional",
+          "url": "/blog/camper-water-heater-repair/"
+        },
+        {
+          "primary_keyword": "instant water heater repair",
+          "slug": "instant-water-heater-repair",
+          "status": "written",
+          "date": "2026-11-27",
+          "volume": 18100,
+          "intent": "transactional",
+          "url": "/blog/instant-water-heater-repair/"
+        },
+        {
+          "primary_keyword": "repair rv water heater",
+          "slug": "repair-rv-water-heater",
+          "status": "written",
+          "date": "2026-11-29",
+          "volume": 18100,
+          "intent": "transactional",
+          "url": "/blog/repair-rv-water-heater/"
+        },
+        {
+          "primary_keyword": "travel trailer water heater repair",
+          "slug": "travel-trailer-water-heater-repair",
+          "status": "written",
+          "date": "2026-12-01",
+          "volume": 18100,
+          "intent": "transactional",
+          "url": "/blog/travel-trailer-water-heater-repair/"
+        },
+        {
+          "primary_keyword": "navien tankless water heater repair",
+          "slug": "navien-tankless-water-heater-repair",
+          "status": "written",
+          "date": "2026-12-29",
+          "volume": 14800,
+          "intent": "commercial",
+          "url": "/blog/navien-tankless-water-heater-repair/"
+        },
+        {
+          "primary_keyword": "rheem tankless water heater repair",
+          "slug": "rheem-tankless-water-heater-repair",
+          "status": "written",
+          "date": "2026-12-05",
+          "volume": 12100,
+          "intent": "commercial",
+          "url": "/blog/rheem-tankless-water-heater-repair/"
+        },
+        {
+          "primary_keyword": "gas hot water heater repair",
+          "slug": "gas-hot-water-heater-repair",
+          "status": "written",
+          "date": "2026-12-21",
+          "volume": 12100,
+          "intent": "transactional",
+          "url": "/blog/gas-hot-water-heater-repair/"
+        },
+        {
+          "primary_keyword": "water heater repair technician",
+          "slug": "water-heater-repair-technician",
+          "status": "written",
+          "date": "2027-01-02",
+          "volume": 2900,
+          "intent": "commercial",
+          "url": "/blog/water-heater-repair-technician/"
+        },
+        {
+          "primary_keyword": "whirlpool water heater repair",
+          "slug": "whirlpool-water-heater-repair",
+          "status": "written",
+          "date": "2026-12-19",
+          "volume": 1900,
+          "intent": "commercial",
+          "url": "/blog/whirlpool-water-heater-repair/"
+        },
+        {
+          "primary_keyword": "repair water heater pressure relief valve",
+          "slug": "repair-water-heater-pressure-relief-valve",
+          "status": "written",
+          "date": "2027-01-16",
+          "volume": 480,
+          "intent": "transactional",
+          "url": "/blog/repair-water-heater-pressure-relief-valve/"
+        },
+        {
+          "primary_keyword": "san antonio water heater repair",
+          "slug": "san-antonio-water-heater-repair",
+          "status": "written",
+          "date": "2027-01-18",
+          "volume": 480,
+          "intent": "commercial",
+          "url": "/blog/san-antonio-water-heater-repair/"
+        },
+        {
+          "primary_keyword": "water heater repair council bluffs",
+          "slug": "water-heater-repair-council-bluffs",
+          "status": "written",
+          "date": "2027-01-26",
+          "volume": 320,
+          "intent": "commercial",
+          "url": "/blog/water-heater-repair-council-bluffs/"
+        }
+      ]
+    },
+    {
+      "cluster": "24 hour plumber",
+      "slug": "24-hour-plumber",
+      "pillar": "24 hour plumber",
+      "total_volume": 10900,
+      "pieces": [
+        {
+          "primary_keyword": "24 hour plumber",
+          "slug": "24-hour-plumber",
+          "status": "written",
+          "date": "2026-12-09",
+          "volume": 9900,
+          "intent": "commercial",
+          "url": "/blog/24-hour-plumber/"
+        },
+        {
+          "primary_keyword": "24 hour emergency plumber",
+          "slug": "24-hour-emergency-plumber",
+          "status": "written",
+          "date": "2026-12-25",
+          "volume": 1000,
+          "intent": "commercial",
+          "url": "/blog/24-hour-emergency-plumber/"
+        }
+      ]
+    }
+  ],
+  "directory": [
+    {
+      "category": "Plumbers in Austin",
+      "slug": "plumbers",
+      "listings": [
+        "reliant-plumbing",
+        "reliant-plumbing-austin",
+        "plumb-masters-inc",
+        "beyond-wow-plumbing-drains"
+      ]
+    }
+  ]
+}

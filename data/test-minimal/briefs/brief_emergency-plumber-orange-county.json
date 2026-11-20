@@ -1,0 +1,335 @@
+{
+  "primary_keyword": "emergency plumber orange county",
+  "slug": "emergency-plumber-orange-county",
+  "secondary_keywords": [
+    "county of orange fl"
+  ],
+  "intent": "commercial",
+  "target_word_count": 3035,
+  "outline": [
+    {
+      "h2": "Emergency plumber orange county: what to look for",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "Emergency plumber orange county: how the main options compare",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "Emergency plumber orange county pricing: what drives the cost",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "Emergency plumber orange county: how to choose the right fit",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "County of Orange Fl",
+      "h3": [],
+      "source": "gap:uncovered_related_search",
+      "gap": true,
+      "top_results_with_h2": 0
+    },
+    {
+      "h2": "Emergency plumber orange county: what most guides leave out",
+      "h3": [],
+      "source": "gap:missing_angle",
+      "gap": true,
+      "top_results_with_h2": 0
+    },
+    {
+      "h2": "Frequently asked questions about emergency plumber orange county",
+      "h3": [
+        "What does emergency plumber orange county involve?",
+        "How much should you expect to pay for emergency plumber orange county?",
+        "What should you check first when it comes to emergency plumber orange county?"
+      ],
+      "source": "people_also_ask",
+      "gap": false,
+      "faq": true
+    }
+  ],
+  "placement_rules": {
+    "primary_keyword_in": [
+      "title",
+      "h1",
+      "first_100_words",
+      "meta_description",
+      "at_least_one_h2"
+    ],
+    "secondary_keywords": "use each at most twice, only where it reads naturally",
+    "intro_max_words": 150,
+    "faq": "final H2, one H3 per question, answers 40-90 words",
+    "structure": "at least one list or table; one analogy or named mental model per major H2",
+    "meta_description_chars": [
+      50,
+      160
+    ],
+    "internal_links": "link each internal_link_target once, in body paragraphs, never in headings",
+    "directory_links_min": 2,
+    "external_links": "cite each external source once with descriptive anchor text"
+  },
+  "external_sources": [
+    {
+      "title": "Orange (fruit)",
+      "url": "https://en.wikipedia.org/wiki/Orange_(fruit)",
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "title": "Orange County Government Florida",
+      "url": "https://www.orangecountyfl.net/",
+      "domain": "orangecountyfl.net"
+    },
+    {
+      "title": "Orange Data Mining",
+      "url": "https://orangedatamining.com/",
+      "domain": "orangedatamining.com"
+    },
+    {
+      "title": "Homepage | Corporate Website of Orange",
+      "url": "https://www.orange.com/en",
+      "domain": "orange.com"
+    }
+  ],
+  "internal_link_targets": [
+    {
+      "url": "/blog/plumber-near-me-emergency/",
+      "anchor": "Plumber near me emergency: How to Compare Your Options",
+      "type": "article",
+      "relevance": 2,
+      "rating": 0
+    },
+    {
+      "url": "/blog/emergency-service-plumber/",
+      "anchor": "Emergency service plumber: How to Compare Your Options",
+      "type": "article",
+      "relevance": 2,
+      "rating": 0
+    },
+    {
+      "url": "/blog/plumbers-near-me/",
+      "anchor": "Plumbers near me: How to Compare Your Options",
+      "type": "article",
+      "relevance": 1,
+      "rating": 0
+    },
+    {
+      "url": "/blog/24-hour-plumber/",
+      "anchor": "24 hour plumber: How to Compare Your Options",
+      "type": "article",
+      "relevance": 1,
+      "rating": 0
+    },
+    {
+      "url": "/directory/plumbers/",
+      "anchor": "plumbers in Austin directory",
+      "type": "directory_category",
+      "relevance": 1,
+      "rating": 0
+    },
+    {
+      "url": "/directory/plumbers/plumb-masters-inc/",
+      "anchor": "Plumb Masters, Inc.",
+      "type": "directory_listing",
+      "relevance": 1,
+      "rating": 4.8
+    },
+    {
+      "url": "/directory/plumbers/beyond-wow-plumbing-drains/",
+      "anchor": "Beyond Wow Plumbing & Drains",
+      "type": "directory_listing",
+      "relevance": 1,
+      "rating": 4.8
+    },
+    {
+      "url": "/directory/plumbers/reliant-plumbing/",
+      "anchor": "Reliant Plumbing",
+      "type": "directory_listing",
+      "relevance": 1,
+      "rating": 4.7
+    }
+  ],
+  "schema_type": "Service",
+  "gaps_to_address": [
+    {
+      "type": "uncovered_related_search",
+      "topic": "County of Orange Fl",
+      "section": "County of Orange Fl",
+      "reason": "Related search that only 0 of the top 3 results address as a section."
+    },
+    {
+      "type": "missing_angle",
+      "topic": "Emergency plumber orange county: what most guides leave out",
+      "section": "Emergency plumber orange county: what most guides leave out",
+      "reason": "No top result has a section on this angle."
+    }
+  ],
+  "serp_summary": {
+    "location": "Austin, Texas, United States",
+    "top_results": [
+      {
+        "position": 1,
+        "title": "Homepage | Corporate Website of Orange",
+        "url": "https://www.orange.com/en",
+        "domain": "orange.com",
+        "resolved": true,
+        "snippet": "Discover Orange, international telecommunications group: innovation, connectivity and commitment to a responsible, sustainable digital future.",
+        "type": "service_page"
+      },
+      {
+        "position": 2,
+        "title": "Orange (fruit)",
+        "url": "https://en.wikipedia.org/wiki/Orange_(fruit)",
+        "domain": "en.wikipedia.org",
+        "resolved": true,
+        "snippet": "The orange, also called sweet orange to distinguish it from the bitter orange (Citrus × aurantium), is the fruit of a tree in the family Rutaceae.",
+        "type": "service_page"
+      },
+      {
+        "position": 3,
+        "title": "Orange Data Mining",
+        "url": "https://orangedatamining.com/",
+        "domain": "orangedatamining.com",
+        "resolved": true,
+        "snippet": "Specialized add-ons extend Orange with text mining, network analysis, machine learning fairness, and analysis of domain-specific data, such as time series, ...",
+        "type": "service_page"
+      },
+      {
+        "position": 4,
+        "title": "Orange County Government Florida",
+        "url": "https://www.orangecountyfl.net/",
+        "domain": "orangecountyfl.net",
+        "resolved": true,
+        "snippet": "Official Website of Orange County, Fl.",
+        "type": "service_page"
+      },
+      {
+        "position": 5,
+        "title": "Orange Amps | Iconic British Amplifiers Since 1968 – Orange ...",
+        "url": "https://www.google.com/goto?url=CAESlQEBxCJF15-QvxWml3pZPQB8qfhwtPm6W9DznX3E0479yfCyFETZ8KvtWcR5Vu-MX7kT3N-SZioW-iYrgqOFnd1oHpADkNONAIBRGOhT9FPncGNXqXtpcLq9WkgK5YLCQz9HISez8E9Q4o6iDOk5cTatATJJx96cqenMLhrrBc6YAP_NeT5lo3DMuFkh810zLU0Lh9Iv3A",
+        "domain": "orangeamps.com",
+        "resolved": false,
+        "snippet": "Alongside our world-famous amps, we produce record players, hi-fi systems and headphones for music lovers who want their audio to sound as good as it feels.",
+        "type": "service_page"
+      },
+      {
+        "position": 6,
+        "title": "City of Orange, CA | Home",
+        "url": "https://www.google.com/goto?url=CAESWgHEIkXXTIavnDAFD7FFG0-B_MsLKy8EN5R0cCo0HF18LKA65twsOWPoXUTlL3D1Od9jnBWVe7CJEiahHCPe3KRHB7-7oBEM9YxqvuYYYxZwEvHDe5x5GQ7J7A",
+        "domain": "cityoforange.org",
+        "resolved": false,
+        "snippet": "Orange, CA, is a great place to live, work, and shop. From the Plaza to our top-rated hospitals, schools, and parks, we're a “Slice of Old Towne Charm.”.",
+        "type": "service_page"
+      },
+      {
+        "position": 7,
+        "title": "Blood Orange (@devhynes) • Instagram photos and videos",
+        "url": "https://www.google.com/goto?url=CAESZgHEIkXXQP8JdTcjGtvK6AZXZDPkHglgCYrc9CGSbKsXXKR9UZDnrSn55SfLxc3-BqHzXHIcx4_7ZzAkREHpdh0xDXoeDJXQ7r5eYPJ7wJ4bUZIbsaDRNIqD1cwI2W7km7F03JgujA",
+        "domain": "1.1m+",
+        "resolved": false,
+        "snippet": "The Essex Honey tour has come to an end. Truly unreal to travel the world and perform music, and having so many of you come and sing along.",
+        "type": "service_page"
+      },
+      {
+        "position": 8,
+        "title": "How About Orange",
+        "url": "https://www.google.com/goto?url=CAESYQHEIkXXSMKmyeVPw5R5UgtQYAn0QRSZg7OWZdS8-az3fzJ4b20Z7Iy7XIPVEYjHVHKwUq0DF-hvYbOK3M1EpMizO67qNlnngCHCISyoPiQs_V1P7RWxbXmaI-knbcvT3W0",
+        "domain": "howaboutorange.blogspot.com",
+        "resolved": false,
+        "snippet": "A blog with DIY tutorials, graphic design resources, and inspiration from graphic designer Jessica Jones.",
+        "type": "service_page"
+      }
+    ],
+    "people_also_ask": [],
+    "related_searches": [
+      "How long does an orange live 80 years",
+      "Orange network countries",
+      "County of Orange fl",
+      "Orange download for windows",
+      "Orange data mining Tutorial PDF",
+      "Orange Amplifier price",
+      "Orange Business headquarters",
+      "Orange add-ons"
+    ],
+    "top5_pages": [
+      {
+        "url": "https://www.orange.com/en",
+        "word_count": 621,
+        "h2": [
+          "Orange OpenTech 2026: Why technological progress depends on trust",
+          "Our infrastructure: an international asset on land, at sea, in the sky",
+          "Femmes Entrepreneuses 2027: apply to help your tech startup grow",
+          "…to connect continents, territories and people",
+          "… to offer everyone connectivity and digital services",
+          "…to innovate and respond to new societal uses",
+          "Orange is committed to an ever more inclusive and responsible society",
+          "Events",
+          "Orange Foundation: more than a network, a social bond",
+          "Press releases",
+          "Publication"
+        ]
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Orange_(fruit)",
+        "word_count": 7941,
+        "h2": [
+          "Description",
+          "History",
+          "Etymology",
+          "Composition",
+          "Cultivars",
+          "Cultivation",
+          "Pests and diseases",
+          "Production",
+          "Culinary use",
+          "In culture",
+          "See also",
+          "References",
+          "External links"
+        ]
+      },
+      {
+        "url": "https://orangedatamining.com/",
+        "word_count": 543,
+        "h2": [
+          "Gairdin: Traditional Slovenian Houses - Reinvented",
+          "Visual Programming",
+          "Interactive Data Visualization",
+          "Extensions",
+          "Teach with Orange",
+          "Contribute to Orange"
+        ]
+      }
+    ],
+    "average_top5_word_count": 3035,
+    "minimum_length_rule": 1200,
+    "pages_analysed": 3,
+    "result_types": {
+      "service_page": 8
+    }
+  },
+  "metrics": {
+    "volume": 320,
+    "kd": 0.0,
+    "score": 480.0,
+    "cpc": 179.51
+  },
+  "serp_suspect": [
+    "4 of 8 result links are unresolved Google redirects"
+  ],
+  "format": "blog_post",
+  "off_site": [],
+  "needs_tool": false
+}

@@ -1,0 +1,349 @@
+{
+  "primary_keyword": "heat pump water heater",
+  "slug": "heat-pump-water-heater",
+  "secondary_keywords": [
+    "heat pump water heater cost",
+    "heat pump water heater reddit",
+    "heat pump water heater vs tankless",
+    "heat pump water heater vs gas",
+    "heat pump water heater vs electric",
+    "best heat pump water heater",
+    "heat pump water heater lowe's"
+  ],
+  "intent": "transactional",
+  "target_word_count": 1365,
+  "outline": [
+    {
+      "h2": "Heat pump water heater: what you actually get",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "Heat pump water heater pricing: what drives the cost",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "Heat pump water heater: how to choose a provider",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "Heat pump water heater: what to check before you commit",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "What are the downsides of a heat pump water heater?",
+      "h3": [],
+      "source": "gap:unanswered_paa",
+      "gap": true,
+      "top_results_with_h2": 0
+    },
+    {
+      "h2": "Heat Pump Water Heater Cost",
+      "h3": [],
+      "source": "gap:uncovered_related_search",
+      "gap": true,
+      "top_results_with_h2": 0
+    },
+    {
+      "h2": "Heat Pump Water Heater Reddit",
+      "h3": [],
+      "source": "gap:uncovered_related_search",
+      "gap": true,
+      "top_results_with_h2": 0
+    },
+    {
+      "h2": "Frequently asked questions about heat pump water heater",
+      "h3": [
+        "Is a heat pump hot water system worth it?",
+        "What are some common problems with heat pump water heaters?",
+        "Is a heat pump better than a water heater?"
+      ],
+      "source": "people_also_ask",
+      "gap": false,
+      "faq": true
+    }
+  ],
+  "placement_rules": {
+    "primary_keyword_in": [
+      "title",
+      "h1",
+      "first_100_words",
+      "meta_description",
+      "at_least_one_h2"
+    ],
+    "secondary_keywords": "use each at most twice, only where it reads naturally",
+    "intro_max_words": 150,
+    "faq": "final H2, one H3 per question, answers 40-90 words",
+    "structure": "at least one list or table; one analogy or named mental model per major H2",
+    "meta_description_chars": [
+      50,
+      160
+    ],
+    "internal_links": "link each internal_link_target once, in body paragraphs, never in headings",
+    "directory_links_min": 2,
+    "external_links": "cite each external source once with descriptive anchor text"
+  },
+  "external_sources": [
+    {
+      "title": "5 Best Heat Pump Water Heaters of 2026, Tested in our Labs",
+      "url": "https://www.consumerreports.org/appliances/water-heaters/best-heat-pump-water-heaters-of-the-year-a1171798033/",
+      "domain": "consumerreports.org"
+    },
+    {
+      "title": "Heat Pump Water Heaters | ENERGY STAR",
+      "url": "https://www.energystar.gov/products/heat_pump_water_heaters",
+      "domain": "energystar.gov"
+    },
+    {
+      "title": "Heat Pump Water Heaters",
+      "url": "https://www.homedepot.com/b/Plumbing-Water-Heaters-Tank-Water-Heaters-Heat-Pump-Water-Heaters/N-5yc1vZckra",
+      "domain": "homedepot.com"
+    }
+  ],
+  "internal_link_targets": [
+    {
+      "url": "/blog/tankless-water-heater-installation/",
+      "anchor": "Tankless water heater installation: Costs, Choices and What to Check First",
+      "type": "article",
+      "relevance": 2,
+      "rating": 0
+    },
+    {
+      "url": "/blog/electric-tankless-water-heater/",
+      "anchor": "Electric tankless water heater: Costs, Choices and What to Check First",
+      "type": "article",
+      "relevance": 2,
+      "rating": 0
+    },
+    {
+      "url": "/blog/flash-heater-water-electric/",
+      "anchor": "Flash heater water electric: How to Compare Your Options",
+      "type": "article",
+      "relevance": 2,
+      "rating": 0
+    },
+    {
+      "url": "/blog/camper-water-heater-repair/",
+      "anchor": "Camper water heater repair: Costs, Choices and What to Check First",
+      "type": "article",
+      "relevance": 2,
+      "rating": 0
+    },
+    {
+      "url": "/directory/plumbers/",
+      "anchor": "plumbers in Austin directory",
+      "type": "directory_category",
+      "relevance": 0,
+      "rating": 0
+    },
+    {
+      "url": "/directory/plumbers/plumb-masters-inc/",
+      "anchor": "Plumb Masters, Inc.",
+      "type": "directory_listing",
+      "relevance": 0,
+      "rating": 4.8
+    },
+    {
+      "url": "/directory/plumbers/beyond-wow-plumbing-drains/",
+      "anchor": "Beyond Wow Plumbing & Drains",
+      "type": "directory_listing",
+      "relevance": 0,
+      "rating": 4.8
+    },
+    {
+      "url": "/directory/plumbers/reliant-plumbing/",
+      "anchor": "Reliant Plumbing",
+      "type": "directory_listing",
+      "relevance": 0,
+      "rating": 4.7
+    }
+  ],
+  "schema_type": "Service",
+  "gaps_to_address": [
+    {
+      "type": "unanswered_paa",
+      "topic": "What are the downsides of a heat pump water heater?",
+      "section": "What are the downsides of a heat pump water heater?",
+      "reason": "People Also Ask question that none of the top 2 results answer under a heading."
+    },
+    {
+      "type": "unanswered_paa",
+      "topic": "Is a heat pump hot water system worth it?",
+      "section": "Frequently asked questions about heat pump water heater",
+      "reason": "People Also Ask question that none of the top 2 results answer under a heading."
+    },
+    {
+      "type": "unanswered_paa",
+      "topic": "What are some common problems with heat pump water heaters?",
+      "section": "Frequently asked questions about heat pump water heater",
+      "reason": "People Also Ask question that none of the top 2 results answer under a heading."
+    },
+    {
+      "type": "unanswered_paa",
+      "topic": "Is a heat pump better than a water heater?",
+      "section": "Frequently asked questions about heat pump water heater",
+      "reason": "People Also Ask question that none of the top 2 results answer under a heading."
+    },
+    {
+      "type": "uncovered_related_search",
+      "topic": "Heat Pump Water Heater Cost",
+      "section": "Heat Pump Water Heater Cost",
+      "reason": "Related search that only 0 of the top 2 results address as a section."
+    },
+    {
+      "type": "uncovered_related_search",
+      "topic": "Heat Pump Water Heater Reddit",
+      "section": "Heat Pump Water Heater Reddit",
+      "reason": "Related search that only 0 of the top 2 results address as a section."
+    }
+  ],
+  "serp_summary": {
+    "location": "Austin, Texas, United States",
+    "top_results": [
+      {
+        "position": 1,
+        "title": "Are heat pump water heaters worth it? : r/heatpumps",
+        "url": "https://www.reddit.com/r/heatpumps/comments/16qi8de/are_heat_pump_water_heaters_worth_it/",
+        "domain": "reddit.com",
+        "resolved": true,
+        "snippet": "We have 2 heat pumps (old farm house we put addition on, was cheaper to add a separate one), but a standard electric water heater. I’ve read heat pump ..."
+      },
+      {
+        "position": 2,
+        "title": "Heat Pump Water Heaters | ENERGY STAR",
+        "url": "https://www.energystar.gov/products/heat_pump_water_heaters",
+        "domain": "energystar.gov",
+        "resolved": true,
+        "snippet": "Why ENERGY STAR? Heat pump water heaters are also commonly referred to as Hybrid Electric water Heaters. Different name - same ultra-efficient performance!"
+      },
+      {
+        "position": 3,
+        "title": "5 Best Heat Pump Water Heaters of 2026, Tested in our Labs",
+        "url": "https://www.consumerreports.org/appliances/water-heaters/best-heat-pump-water-heaters-of-the-year-a1171798033/",
+        "domain": "consumerreports.org",
+        "resolved": true,
+        "snippet": "Consumer Reports tested heat pump water heaters to determine which ones were the most energy-efficient and fastest at heating water."
+      },
+      {
+        "position": 4,
+        "title": "Heat Pump Water Heaters",
+        "url": "https://www.homedepot.com/b/Plumbing-Water-Heaters-Tank-Water-Heaters-Heat-Pump-Water-Heaters/N-5yc1vZckra",
+        "domain": "homedepot.com",
+        "resolved": true,
+        "snippet": "Browse a variety of heat pump water heaters to find the perfect energy-efficient solution for your home. Explore models with features like WiFi connectivity ..."
+      },
+      {
+        "position": 5,
+        "title": "All About Heat Pump Water Heaters - nyserda - NY.Gov",
+        "url": "https://www.google.com/goto?url=CAESigEBxCJF1-IwvBTsmKdOpP0px0NULExFxwB5vH7n94VE1vsF2FbUuNV-U4GQujE85HAQ2Vsa0Jq_KPILYBMCYxD2QJna_0v17DKPYGeEDMFLhyB9HCLY8gMVphNKY_SE9pfbbHk__B7g7WjNEk2bd2eUQLSwXSPzfBAAjSuS3b6sDJhJ-wiYiG-79Gc",
+        "domain": "nyserda.ny.gov",
+        "resolved": false,
+        "snippet": "Heat pump water heaters run on electricity and work by moving heat from the surrounding air to heat water in a storage tank. A fan pulls in the ambient air and ..."
+      },
+      {
+        "position": 6,
+        "title": "AO Smith Hybrid Electric Heat Pump Signature Series",
+        "url": "https://www.google.com/goto?url=CAESjgEBxCJF18HWrzvd3TBNPUor2gZrKHlJPkPXAzJDEeEY-BLlCIWSesCyojBsGgtwGjDvyutg5MUG9r1J-SSnokSakOaBF0mYH-ejF8YN4Ok93xgIvdWVQpdylXZQOjosv4MFgzGgoBSPEqItr2Kx0XM0ffXbztcn-nuB6cR6c8RRNcapwkWwQ9NHHz0mnbXT",
+        "domain": "aosmithatlowes.com",
+        "resolved": false,
+        "snippet": "FIND THE RIGHT WATER HEATER · Signature 900 50-Gallon Tall 240-volt Smart Hybrid Grid Capable Heat Pump Water Heater with Leak Detection and Automatic Shut-off."
+      },
+      {
+        "position": 7,
+        "title": "What Is a Heat Pump Water Heater and How Does It Work?",
+        "url": "https://www.google.com/goto?url=CAESoAEBxCJF1xNOu7-eSZ8kj1uQoIVWVBHagMKa3kcUCjiGENWdcDnbdTeyj7qZjcjpQMRfk_b-Q6UnbiiPJDrSn68rL7Cezzb0k7766vvCZt2AJ2GNEl_7GWeOgjO5k2SxRKJopZ6eHTQF2u728E2ZNjMToE49jdIy4Mjy6WKUlUp6keD67IdZ-4XYy4ZYUv0fxmnN6M84yD4xzvokQ--2woeP",
+        "domain": "rheem.com",
+        "resolved": false,
+        "snippet": "The heat pump works like a refrigerator in reverse. It pulls heat energy from the air to heat water. A refrigerant system absorbs heat from the ..."
+      },
+      {
+        "position": 8,
+        "title": "“Ask This Old House” Explanation of Heat Pump Water Heater",
+        "url": "https://www.google.com/goto?url=CAESmQEBxCJF1x2XYMTtgxlF_-X_dazbFkHe8GLKYNbQXil51gftJ1cUYCHVpytgdpXUkrNZm_l2MqHw-Qr9_7C5PVvhyprbFDCXwN_y3bsP1x1JhQl1mIPVzaVG3lNjiA4JYjmVcbIix-nTvxKRlQ4U7jMHnLv0gsFw7TZJw70FLlz5fFeSSWMUVNm1fSE7sWl_ugIuhx8HRsCgxlE&gsessionid=vdJQE6fRMlKcanXlffU_w85seGQX7q2T4yKqOz0gHApuUWvgbfHU9w",
+        "domain": "goclean.masscec.com",
+        "resolved": false,
+        "snippet": "Video Highlights. “Ask This Old House” plumbing and heating expert Richard Trethewey helps a homeowner select and install a heat pump water heater."
+      }
+    ],
+    "people_also_ask": [
+      {
+        "question": "What are the downsides of a heat pump water heater?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      },
+      {
+        "question": "Is a heat pump hot water system worth it?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      },
+      {
+        "question": "What are some common problems with heat pump water heaters?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      },
+      {
+        "question": "Is a heat pump better than a water heater?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      }
+    ],
+    "related_searches": [
+      "Heat pump water heater cost",
+      "Heat pump water heater Reddit",
+      "Heat pump water heater vs tankless",
+      "Heat pump water heater vs gas",
+      "Heat pump water heater vs electric",
+      "Heat pump water heater electric",
+      "Best heat pump water heater",
+      "Heat pump water Heater Lowe's"
+    ],
+    "top5_pages": [
+      {
+        "url": "https://www.energystar.gov/products/heat_pump_water_heaters",
+        "word_count": 1009,
+        "h2": [
+          "Why ENERGY STAR?",
+          "Product Finder",
+          "ENERGY STAR Home Upgrade",
+          "Buying Guidance",
+          "RELATED PRODUCTS"
+        ]
+      },
+      {
+        "url": "https://www.consumerreports.org/appliances/water-heaters/best-heat-pump-water-heaters-of-the-year-a1171798033/",
+        "word_count": 1721,
+        "h2": [
+          "Best Heat-Pump Water Heaters",
+          "Is a Heat-Pump Water Heater Worth It?",
+          "How to Know If a Heat-Pump Water Heater Is a Good Fit for You",
+          "What to Know Before You Switch to a Heat-Pump Water Heater",
+          "How CR Tests Heat-Pump Water Heaters"
+        ]
+      }
+    ],
+    "average_top5_word_count": 1365,
+    "minimum_length_rule": 1000,
+    "pages_analysed": 2
+  },
+  "metrics": {
+    "volume": 40500,
+    "kd": 11.0,
+    "score": 5062.5,
+    "cpc": 3.17
+  }
+}

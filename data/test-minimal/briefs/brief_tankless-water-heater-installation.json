@@ -1,0 +1,335 @@
+{
+  "primary_keyword": "tankless water heater installation",
+  "slug": "tankless-water-heater-installation",
+  "secondary_keywords": [
+    "tankless water heater installation cost",
+    "electric tankless water heater installation",
+    "tankless water heater installation diagram",
+    "electric tankless water heater"
+  ],
+  "intent": "transactional",
+  "target_word_count": 1766,
+  "outline": [
+    {
+      "h2": "Tankless water heater installation: what you actually get",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "Tankless water heater installation pricing: what drives the cost",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "Tankless water heater installation: how to choose a provider",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "Tankless water heater installation: what to check before you commit",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "What is the average cost of a tankless water heater installation?",
+      "h3": [],
+      "source": "gap:unanswered_paa",
+      "gap": true,
+      "top_results_with_h2": 0
+    },
+    {
+      "h2": "Tankless Water Heater Installation Cost",
+      "h3": [
+        "What is the average cost of a tankless water heater installation?"
+      ],
+      "source": "gap:uncovered_related_search",
+      "gap": true,
+      "top_results_with_h2": 0
+    },
+    {
+      "h2": "Electric Tankless Water Heater Installation",
+      "h3": [
+        "What is the downside of an electric tankless water heater?"
+      ],
+      "source": "gap:uncovered_related_search",
+      "gap": true,
+      "top_results_with_h2": 1
+    },
+    {
+      "h2": "Frequently asked questions about tankless water heater installation",
+      "h3": [
+        "What is the downside of an electric tankless water heater?",
+        "Do tankless water heaters require special plumbing?",
+        "How long does it usually take to install a tankless water heater?"
+      ],
+      "source": "people_also_ask",
+      "gap": false,
+      "faq": true
+    }
+  ],
+  "placement_rules": {
+    "primary_keyword_in": [
+      "title",
+      "h1",
+      "first_100_words",
+      "meta_description",
+      "at_least_one_h2"
+    ],
+    "secondary_keywords": "use each at most twice, only where it reads naturally",
+    "intro_max_words": 150,
+    "faq": "final H2, one H3 per question, answers 40-90 words",
+    "structure": "at least one list or table; one analogy or named mental model per major H2",
+    "meta_description_chars": [
+      50,
+      160
+    ],
+    "internal_links": "link each internal_link_target once, in body paragraphs, never in headings",
+    "directory_links_min": 2,
+    "external_links": "cite each external source once with descriptive anchor text"
+  },
+  "external_sources": [
+    {
+      "title": "Complete Guide to Tankless Water Heater Installation ...",
+      "url": "https://waterheatersnow.com/complete-guide-to-tankless-water-heater-installation-diagram/",
+      "domain": "waterheatersnow.com"
+    },
+    {
+      "title": "Electric Tankless Water Heater Installation",
+      "url": "https://www.diychatroom.com/threads/electric-tankless-water-heater-installation.792108/",
+      "domain": "diychatroom.com"
+    },
+    {
+      "title": "How Long Does it Take to Install Tankless Water Heater",
+      "url": "https://pantheonplumbingandheating.com/blog/how-long-does-it-take-to-install-a-new-tankless-water-heater-a-quick-guide/",
+      "domain": "pantheonplumbingandheating.com"
+    },
+    {
+      "title": "Tankless Water Heater Install: A Step-by-Step Guide",
+      "url": "https://justplumbingaz.com/blog/tankless-water-heater-install-a-step-by-step-guide/",
+      "domain": "justplumbingaz.com"
+    }
+  ],
+  "internal_link_targets": [
+    {
+      "url": "/directory/plumbers/",
+      "anchor": "plumbers in Austin directory",
+      "type": "directory_category",
+      "relevance": 0,
+      "rating": 0
+    },
+    {
+      "url": "/directory/plumbers/plumb-masters-inc/",
+      "anchor": "Plumb Masters, Inc.",
+      "type": "directory_listing",
+      "relevance": 0,
+      "rating": 4.8
+    },
+    {
+      "url": "/directory/plumbers/beyond-wow-plumbing-drains/",
+      "anchor": "Beyond Wow Plumbing & Drains",
+      "type": "directory_listing",
+      "relevance": 0,
+      "rating": 4.8
+    },
+    {
+      "url": "/directory/plumbers/reliant-plumbing/",
+      "anchor": "Reliant Plumbing",
+      "type": "directory_listing",
+      "relevance": 0,
+      "rating": 4.7
+    }
+  ],
+  "schema_type": "Service",
+  "gaps_to_address": [
+    {
+      "type": "unanswered_paa",
+      "topic": "What is the average cost of a tankless water heater installation?",
+      "section": "What is the average cost of a tankless water heater installation?",
+      "reason": "People Also Ask question that none of the top 3 results answer under a heading."
+    },
+    {
+      "type": "unanswered_paa",
+      "topic": "What is the downside of an electric tankless water heater?",
+      "section": "Frequently asked questions about tankless water heater installation",
+      "reason": "People Also Ask question that none of the top 3 results answer under a heading."
+    },
+    {
+      "type": "unanswered_paa",
+      "topic": "Do tankless water heaters require special plumbing?",
+      "section": "Frequently asked questions about tankless water heater installation",
+      "reason": "People Also Ask question that none of the top 3 results answer under a heading."
+    },
+    {
+      "type": "uncovered_related_search",
+      "topic": "Tankless Water Heater Installation Cost",
+      "section": "Tankless Water Heater Installation Cost",
+      "reason": "Related search that only 0 of the top 3 results address as a section."
+    },
+    {
+      "type": "uncovered_related_search",
+      "topic": "Electric Tankless Water Heater Installation",
+      "section": "Electric Tankless Water Heater Installation",
+      "reason": "Related search that only 1 of the top 3 results address as a section."
+    },
+    {
+      "type": "underanswered_paa",
+      "topic": "How long does it usually take to install a tankless water heater?",
+      "section": "Frequently asked questions about tankless water heater installation",
+      "reason": "People Also Ask question answered by only 1 of the top 3 results."
+    }
+  ],
+  "serp_summary": {
+    "location": "Austin, Texas, United States",
+    "top_results": [
+      {
+        "position": 1,
+        "title": "Tankless Water Heaters 101: A Complete Installation Guide",
+        "url": "https://www.solaceplumbingaz.com/blog/tankless-water-heaters-101-a-complete-installation-guide",
+        "domain": "solaceplumbingaz.com",
+        "resolved": true,
+        "snippet": "A licensed professional should handle the installation. They'll start by assessing your home's plumbing and electrical setup, guaranteeing ..."
+      },
+      {
+        "position": 2,
+        "title": "Tankless Water Heater Install: A Step-by-Step Guide",
+        "url": "https://justplumbingaz.com/blog/tankless-water-heater-install-a-step-by-step-guide/",
+        "domain": "justplumbingaz.com",
+        "resolved": true,
+        "snippet": "Discover what goes into a tankless water heater install, how it works, and what to expect from this energy-efficient upgrade."
+      },
+      {
+        "position": 3,
+        "title": "Tankless water heater install",
+        "url": "https://www.youtube.com/shorts/OFAQxNTvisY",
+        "domain": "youtube.com",
+        "resolved": true,
+        "snippet": "Tankless water heater install - YouTube #plumbing #plumber #construction #fyp #bluecollar"
+      },
+      {
+        "position": 4,
+        "title": "How Long Does it Take to Install Tankless Water Heater",
+        "url": "https://pantheonplumbingandheating.com/blog/how-long-does-it-take-to-install-a-new-tankless-water-heater-a-quick-guide/",
+        "domain": "pantheonplumbingandheating.com",
+        "resolved": true,
+        "snippet": "Installing a new tankless water heater typically takes 3 to 6 hours. On average, professional installers can complete the job in approximately ..."
+      },
+      {
+        "position": 5,
+        "title": "Electric Tankless Water Heater Installation",
+        "url": "https://www.diychatroom.com/threads/electric-tankless-water-heater-installation.792108/",
+        "domain": "diychatroom.com",
+        "resolved": true,
+        "snippet": "You do need a permit to install this, electrical and plumbing. There are two methods to be used when venting to the outside wall (1) Slope the ..."
+      },
+      {
+        "position": 6,
+        "title": "Complete Guide to Tankless Water Heater Installation ...",
+        "url": "https://waterheatersnow.com/complete-guide-to-tankless-water-heater-installation-diagram/",
+        "domain": "waterheatersnow.com",
+        "resolved": true,
+        "snippet": "Step Description 1 Locate the pressure relief valve port on the tankless water heater. 2 Wrap the threads of the pressure relief valve with ..."
+      }
+    ],
+    "people_also_ask": [
+      {
+        "question": "What is the average cost of a tankless water heater installation?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      },
+      {
+        "question": "What is the downside of an electric tankless water heater?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      },
+      {
+        "question": "Do tankless water heaters require special plumbing?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      },
+      {
+        "question": "How long does it usually take to install a tankless water heater?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      }
+    ],
+    "related_searches": [
+      "Tankless water heater installation cost",
+      "Electric tankless water heater installation",
+      "Tankless water heater installation diagram"
+    ],
+    "top5_pages": [
+      {
+        "url": "https://www.solaceplumbingaz.com/blog/tankless-water-heaters-101-a-complete-installation-guide",
+        "word_count": 1174,
+        "h2": [
+          "Why Choose Tankless Water Heaters?",
+          "Choosing the Right Tankless Heater",
+          "Location, Location, Location",
+          "Gas or Electric: Choosing Your Power Source",
+          "Installation Process: Professional Assistance Is Key",
+          "Maintenance and Longevity",
+          "Enjoy Endless Hot Water",
+          "Say Goodbye to Standing Water: The Benefits of a Properly Installed Floor Drain",
+          "The Benefits of Water-Saving Toilets and How to Install Them"
+        ]
+      },
+      {
+        "url": "https://justplumbingaz.com/blog/tankless-water-heater-install-a-step-by-step-guide/",
+        "word_count": 2083,
+        "h2": [
+          "Plan the Equipment, Tools, and Materials",
+          "Preparing the Installation Site",
+          "Mounting and Connecting the Tankless Heater",
+          "Inspection and First Run",
+          "Conclusion",
+          "FAQs",
+          "Recent Posts"
+        ]
+      },
+      {
+        "url": "https://pantheonplumbingandheating.com/blog/how-long-does-it-take-to-install-a-new-tankless-water-heater-a-quick-guide/",
+        "word_count": 2042,
+        "h2": [
+          "Key Takeaways",
+          "Key Factors Influencing Installation Time",
+          "Indoor vs. Outdoor Installations",
+          "Water and Gas Line Accessibility",
+          "Replacing an Existing Unit vs. New Installations",
+          "Importance of Professional Installation",
+          "Necessary Preparations Before Installation",
+          "Typical Installation Timeframes",
+          "Post-Installation Procedures",
+          "Common Challenges and Solutions",
+          "Regular Maintenance for Longevity",
+          "Summary",
+          "Frequently Asked Questions",
+          "Recent Post",
+          "Get $100 Off!",
+          "Upgrade to a Tankless Water Heater Today.",
+          "Claim Your Discount!"
+        ]
+      }
+    ],
+    "average_top5_word_count": 1766,
+    "minimum_length_rule": 1000,
+    "pages_analysed": 3
+  },
+  "metrics": {
+    "volume": 40500,
+    "kd": 0.0,
+    "score": 60750.0,
+    "cpc": 20.32
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "primary_keyword": "emergency plumber louisville",
+  "slug": "emergency-plumber-louisville",
+  "secondary_keywords": [],
+  "intent": "commercial",
+  "target_word_count": 1321,
+  "outline": [
+    {
+      "h2": "Emergency plumber louisville: what to look for",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "Emergency plumber louisville: how the main options compare",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "Emergency plumber louisville pricing: what drives the cost",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "Emergency plumber louisville: how to choose the right fit",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "What would be a plumbing emergency?",
+      "h3": [],
+      "source": "gap:unanswered_paa",
+      "gap": true,
+      "top_results_with_h2": 0
+    },
+    {
+      "h2": "What is the best er in Louisville?",
+      "h3": [],
+      "source": "gap:unanswered_paa",
+      "gap": true,
+      "top_results_with_h2": 0
+    },
+    {
+      "h2": "Frequently asked questions about emergency plumber louisville",
+      "h3": [
+        "How can I report a water leak to Louisville water Company?",
+        "Does Kentucky require a plumbing license?",
+        "What does emergency plumber louisville involve?"
+      ],
+      "source": "people_also_ask",
+      "gap": false,
+      "faq": true
+    }
+  ],
+  "placement_rules": {
+    "primary_keyword_in": [
+      "title",
+      "h1",
+      "first_100_words",
+      "meta_description",
+      "at_least_one_h2"
+    ],
+    "secondary_keywords": "use each at most twice, only where it reads naturally",
+    "intro_max_words": 150,
+    "faq": "final H2, one H3 per question, answers 40-90 words",
+    "structure": "at least one list or table; one analogy or named mental model per major H2",
+    "meta_description_chars": [
+      50,
+      160
+    ],
+    "internal_links": "link each internal_link_target once, in body paragraphs, never in headings",
+    "directory_links_min": 2,
+    "external_links": "cite each external source once with descriptive anchor text"
+  },
+  "external_sources": [
+    {
+      "title": "Burst Pipes, Leak Detection & Leak Repair 40202",
+      "url": "https://emergency-plumber-louisville-ky.plumberhaverhill.com/services/leak-detection",
+      "domain": "emergency-plumber-louisville-ky.plumberhaverhill.com"
+    },
+    {
+      "title": "Emergency Plumber in Clarksville, IN - Start 2 Finish",
+      "url": "https://www.louisvillekyplumbers.com/clarksville-indiana-emergency-plumbing-technicians",
+      "domain": "louisvillekyplumbers.com"
+    },
+    {
+      "title": "13 Best Louisville, KY Plumbers",
+      "url": "https://www.expertise.com/home-improvement/plumbing/kentucky/louisville",
+      "domain": "expertise.com"
+    },
+    {
+      "title": "Plumbing Services for HVAC Systems | 24/7 Plumbers ...",
+      "url": "https://www.plumbersinlouisvilleky.com/",
+      "domain": "plumbersinlouisvilleky.com"
+    }
+  ],
+  "internal_link_targets": [
+    {
+      "url": "/blog/plumber-near-me-emergency/",
+      "anchor": "Plumber near me emergency: How to Compare Your Options",
+      "type": "article",
+      "relevance": 2,
+      "rating": 0
+    },
+    {
+      "url": "/blog/emergency-service-plumber/",
+      "anchor": "Emergency service plumber: How to Compare Your Options",
+      "type": "article",
+      "relevance": 2,
+      "rating": 0
+    },
+    {
+      "url": "/blog/plumbers-near-me/",
+      "anchor": "Plumbers near me: How to Compare Your Options",
+      "type": "article",
+      "relevance": 1,
+      "rating": 0
+    },
+    {
+      "url": "/blog/24-hour-plumber/",
+      "anchor": "24 hour plumber: How to Compare Your Options",
+      "type": "article",
+      "relevance": 1,
+      "rating": 0
+    },
+    {
+      "url": "/directory/plumbers/",
+      "anchor": "plumbers in Austin directory",
+      "type": "directory_category",
+      "relevance": 1,
+      "rating": 0
+    },
+    {
+      "url": "/directory/plumbers/plumb-masters-inc/",
+      "anchor": "Plumb Masters, Inc.",
+      "type": "directory_listing",
+      "relevance": 1,
+      "rating": 4.8
+    },
+    {
+      "url": "/directory/plumbers/beyond-wow-plumbing-drains/",
+      "anchor": "Beyond Wow Plumbing & Drains",
+      "type": "directory_listing",
+      "relevance": 1,
+      "rating": 4.8
+    },
+    {
+      "url": "/directory/plumbers/reliant-plumbing/",
+      "anchor": "Reliant Plumbing",
+      "type": "directory_listing",
+      "relevance": 1,
+      "rating": 4.7
+    }
+  ],
+  "schema_type": "Service",
+  "gaps_to_address": [
+    {
+      "type": "unanswered_paa",
+      "topic": "What would be a plumbing emergency?",
+      "section": "What would be a plumbing emergency?",
+      "reason": "People Also Ask question that none of the top 2 results answer under a heading."
+    },
+    {
+      "type": "unanswered_paa",
+      "topic": "What is the best er in Louisville?",
+      "section": "What is the best er in Louisville?",
+      "reason": "People Also Ask question that none of the top 2 results answer under a heading."
+    },
+    {
+      "type": "unanswered_paa",
+      "topic": "How can I report a water leak to Louisville water Company?",
+      "section": "Frequently asked questions about emergency plumber louisville",
+      "reason": "People Also Ask question that none of the top 2 results answer under a heading."
+    },
+    {
+      "type": "unanswered_paa",
+      "topic": "Does Kentucky require a plumbing license?",
+      "section": "Frequently asked questions about emergency plumber louisville",
+      "reason": "People Also Ask question that none of the top 2 results answer under a heading."
+    }
+  ],
+  "serp_summary": {
+    "location": "Austin, Texas, United States",
+    "top_results": [
+      {
+        "position": 1,
+        "title": "TOP 10 BEST Plumber near Downtown, Louisville, KY",
+        "url": "https://m.yelp.com/search?find_desc=Plumber&find_loc=Downtown%2C+Louisville%2C+KY",
+        "domain": "m.yelp.com",
+        "resolved": true,
+        "snippet": "Benjamin Franklin Plumbing of Eastern Louisville offers emergency plumbing services and emphasizes quick response and 100% customer satisfaction.",
+        "type": "directory"
+      },
+      {
+        "position": 2,
+        "title": "Reliable plumbing services in Louisville with free estimates",
+        "url": "https://www.facebook.com/leonardwalkerplumbing/posts/-plumbing-problem-dont-wait-until-it-becomes-an-emergency-a-small-leak-today-can/1431115555874858/",
+        "domain": "facebook.com",
+        "resolved": true,
+        "snippet": "Emergency plumbing services in Louisville. Serving Louisville & Southern Indiana 📞 (502) 768-7717",
+        "type": "blog_post"
+      },
+      {
+        "position": 3,
+        "title": "Best Toilet Repair Services in Louisville, KY",
+        "url": "https://www.yelp.com/questions/loc/louisville-ky/plumbing-businesses-louisville-ky-provide-true-emergency/C_axHThl8zTtF-U6EWCCqw",
+        "domain": "yelp.com",
+        "resolved": true,
+        "snippet": "Benjamin Franklin Plumbing of Eastern Louisville offers emergency plumbing services … call Benjamin Franklin Plumbing at (502) 653-5332 or Your Second Opinion ...",
+        "type": "directory"
+      },
+      {
+        "position": 4,
+        "title": "Plumbing Services for HVAC Systems | 24/7 Plumbers ...",
+        "url": "https://www.plumbersinlouisvilleky.com/",
+        "domain": "plumbersinlouisvilleky.com",
+        "resolved": true,
+        "snippet": "Top plumbing company in Louisville, KY for residential and commercial services. Call (502) 806-8008 for fast, reliable 24/7 plumbing help today!",
+        "type": "service_page"
+      },
+      {
+        "position": 5,
+        "title": "13 Best Louisville, KY Plumbers",
+        "url": "https://www.expertise.com/home-improvement/plumbing/kentucky/louisville",
+        "domain": "expertise.com",
+        "resolved": true,
+        "snippet": "Best Plumbers in Louisville, KY · Our Recommended Top 13 · Providers · William Branch & Son, Inc. · PlumbRight · Avantel · Stemler Plumbing, Inc.",
+        "type": "directory"
+      },
+      {
+        "position": 6,
+        "title": "Emergency Plumber in Clarksville, IN - Start 2 Finish",
+        "url": "https://www.louisvillekyplumbers.com/clarksville-indiana-emergency-plumbing-technicians",
+        "domain": "louisvillekyplumbers.com",
+        "resolved": true,
+        "snippet": "We offer 24-hour emergency plumbing services and expert solutions. Call 502-791-5151",
+        "type": "blog_post"
+      },
+      {
+        "position": 7,
+        "title": "24 Hour Plumbing Services Louisville",
+        "url": "https://www.facebook.com/fb-answers/24-hour-plumbing-services-louisville/",
+        "domain": "facebook.com",
+        "resolved": true,
+        "snippet": "For 24/7 plumbing emergencies in Louisville, Benjamin Franklin Plumbing at 502-830-9001 and Gen 2 Plumbing LLC at 270-963-6210. at 270-963-6210.",
+        "type": "blog_post"
+      },
+      {
+        "position": 8,
+        "title": "Burst Pipes, Leak Detection & Leak Repair 40202",
+        "url": "https://emergency-plumber-louisville-ky.plumberhaverhill.com/services/leak-detection",
+        "domain": "emergency-plumber-louisville-ky.plumberhaverhill.com",
+        "resolved": true,
+        "snippet": "Emergency Plumbing Pros. Contact (855) 695-0675 today. 24/7 Leak Detection in Louisville, KY. Call (855) 695-0675. Service hours Mon – Sat7:00 AM — 9:00 PM ...",
+        "type": "service_page"
+      },
+      {
+        "position": 9,
+        "title": "TOP 10 BEST 24 Hour Plumber in Louisville, KY",
+        "url": "https://www.yelp.com/search?find_desc=24+Hour+Plumber&find_loc=Louisville%2C+KY",
+        "domain": "yelp.com",
+        "resolved": true,
+        "snippet": "Benjamin Franklin Plumbing of Eastern Louisville offers emergency plumbing services and emphasizes quick response and 100% customer satisfaction. Your Second ...",
+        "type": "directory"
+      }
+    ],
+    "people_also_ask": [
+      {
+        "question": "What would be a plumbing emergency?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      },
+      {
+        "question": "What is the best er in Louisville?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      },
+      {
+        "question": "How can I report a water leak to Louisville water Company?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      },
+      {
+        "question": "Does Kentucky require a plumbing license?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      }
+    ],
+    "related_searches": [],
+    "top5_pages": [
+      {
+        "url": "https://www.expertise.com/home-improvement/plumbing/kentucky/louisville",
+        "word_count": 1964,
+        "h2": [
+          "Our Recommended Top 13",
+          "Providers",
+          "William Branch & Son, Inc.",
+          "PlumbRight",
+          "Avantel",
+          "Stemler Plumbing, Inc.",
+          "Senninger Plumbing Company, Inc.",
+          "Dial One L. V. Lewis Plumbing, LLC",
+          "Bryant & Sons Plumbing",
+          "A & S Plumbing of Southern Indiana",
+          "Klein Plumbing",
+          "Leanhart Plumbing",
+          "Rodney Terry Plumbing",
+          "New Circle Mechanical",
+          "Davis and Davis Plumbing",
+          "Other Kentucky Plumbers",
+          "Other Home Service Professionals in Louisville, KY",
+          "Related Articles"
+        ]
+      },
+      {
+        "url": "https://emergency-plumber-louisville-ky.plumberhaverhill.com/services/leak-detection",
+        "word_count": 678,
+        "h2": [
+          "Four simple steps to Emergency Plumber in Louisville, KY",
+          "Emergency Plumber Services Across Louisville, KY",
+          "Other Leak Detection services we provide in Louisville, KY",
+          "Frequently asked questions about Leak Detection",
+          "Need Emergency Plumber in Louisville, KY? Call now."
+        ]
+      }
+    ],
+    "average_top5_word_count": 1321,
+    "minimum_length_rule": 1200,
+    "pages_analysed": 2,
+    "result_types": {
+      "directory": 4,
+      "blog_post": 3,
+      "service_page": 2
+    }
+  },
+  "metrics": {
+    "volume": 210,
+    "kd": 0.0,
+    "score": 315.0,
+    "cpc": 85.52
+  },
+  "format": "blog_post",
+  "off_site": [],
+  "needs_tool": false
+}

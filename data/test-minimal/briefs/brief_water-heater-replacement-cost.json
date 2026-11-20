@@ -1,0 +1,354 @@
+{
+  "primary_keyword": "water heater replacement cost",
+  "slug": "water-heater-replacement-cost",
+  "secondary_keywords": [
+    "tankless water heater replacement cost",
+    "water heater replacement cost calculator",
+    "natural gas water heater replacement cost",
+    "electric water heater replacement cost"
+  ],
+  "intent": "commercial",
+  "target_word_count": 1200,
+  "outline": [
+    {
+      "h2": "Water heater replacement cost: what to look for",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "Water heater replacement cost: how the main options compare",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "Water heater replacement cost pricing: what drives the cost",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "Water heater replacement cost: how to choose the right fit",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "Is it expensive to replace a water heater?",
+      "h3": [],
+      "source": "gap:unanswered_paa",
+      "gap": true,
+      "top_results_with_h2": 0
+    },
+    {
+      "h2": "Tankless Water Heater Replacement Cost",
+      "h3": [],
+      "source": "gap:uncovered_related_search",
+      "gap": true,
+      "top_results_with_h2": 1
+    },
+    {
+      "h2": "Water Heater Replacement Cost Calculator",
+      "h3": [],
+      "source": "gap:uncovered_related_search",
+      "gap": true,
+      "top_results_with_h2": 0
+    },
+    {
+      "h2": "Frequently asked questions about water heater replacement cost",
+      "h3": [
+        "What are common water heater problems?",
+        "What size water heater do I need?",
+        "What's the average lifespan of a water heater?"
+      ],
+      "source": "people_also_ask",
+      "gap": false,
+      "faq": true
+    }
+  ],
+  "placement_rules": {
+    "primary_keyword_in": [
+      "title",
+      "h1",
+      "first_100_words",
+      "meta_description",
+      "at_least_one_h2"
+    ],
+    "secondary_keywords": "use each at most twice, only where it reads naturally",
+    "intro_max_words": 150,
+    "faq": "final H2, one H3 per question, answers 40-90 words",
+    "structure": "at least one list or table; one analogy or named mental model per major H2",
+    "meta_description_chars": [
+      50,
+      160
+    ],
+    "internal_links": "link each internal_link_target once, in body paragraphs, never in headings",
+    "directory_links_min": 2,
+    "external_links": "cite each external source once with descriptive anchor text"
+  },
+  "external_sources": [
+    {
+      "title": "What is Water Heater Installation Cost - Golden Rule",
+      "url": "https://goldenrulephc.com/blog/cost-to-install-a-tank-water-heater/",
+      "domain": "goldenrulephc.com"
+    },
+    {
+      "title": "Water Heater Replacement Cost Chicago",
+      "url": "https://www.jsewerandplumbing.com/blog/what-is-the-average-cost-of-installing-a-new-water-heater/",
+      "domain": "jsewerandplumbing.com"
+    },
+    {
+      "title": "How Much Does it Cost to Install a Water Heater?",
+      "url": "https://www.greatpros.com/blog/How-Much-Does-it-Cost-to-Install-a-Water-Heater",
+      "domain": "greatpros.com"
+    }
+  ],
+  "internal_link_targets": [
+    {
+      "url": "/blog/tankless-water-heater-installation/",
+      "anchor": "Tankless water heater installation: Costs, Choices and What to Check First",
+      "type": "article",
+      "relevance": 3,
+      "rating": 0
+    },
+    {
+      "url": "/blog/electric-tankless-water-heater/",
+      "anchor": "Electric tankless water heater: Costs, Choices and What to Check First",
+      "type": "article",
+      "relevance": 3,
+      "rating": 0
+    },
+    {
+      "url": "/blog/camper-water-heater-repair/",
+      "anchor": "Camper water heater repair: Costs, Choices and What to Check First",
+      "type": "article",
+      "relevance": 3,
+      "rating": 0
+    },
+    {
+      "url": "/blog/instant-water-heater-repair/",
+      "anchor": "Instant water heater repair: Costs, Choices and What to Check First",
+      "type": "article",
+      "relevance": 3,
+      "rating": 0
+    },
+    {
+      "url": "/directory/plumbers/",
+      "anchor": "plumbers in Austin directory",
+      "type": "directory_category",
+      "relevance": 0,
+      "rating": 0
+    },
+    {
+      "url": "/directory/plumbers/plumb-masters-inc/",
+      "anchor": "Plumb Masters, Inc.",
+      "type": "directory_listing",
+      "relevance": 0,
+      "rating": 4.8
+    },
+    {
+      "url": "/directory/plumbers/beyond-wow-plumbing-drains/",
+      "anchor": "Beyond Wow Plumbing & Drains",
+      "type": "directory_listing",
+      "relevance": 0,
+      "rating": 4.8
+    },
+    {
+      "url": "/directory/plumbers/reliant-plumbing/",
+      "anchor": "Reliant Plumbing",
+      "type": "directory_listing",
+      "relevance": 0,
+      "rating": 4.7
+    }
+  ],
+  "schema_type": "Service",
+  "gaps_to_address": [
+    {
+      "type": "unanswered_paa",
+      "topic": "Is it expensive to replace a water heater?",
+      "section": "Is it expensive to replace a water heater?",
+      "reason": "People Also Ask question that none of the top 4 results answer under a heading."
+    },
+    {
+      "type": "unanswered_paa",
+      "topic": "What are common water heater problems?",
+      "section": "Frequently asked questions about water heater replacement cost",
+      "reason": "People Also Ask question that none of the top 4 results answer under a heading."
+    },
+    {
+      "type": "unanswered_paa",
+      "topic": "What size water heater do I need?",
+      "section": "Frequently asked questions about water heater replacement cost",
+      "reason": "People Also Ask question that none of the top 4 results answer under a heading."
+    },
+    {
+      "type": "unanswered_paa",
+      "topic": "What's the average lifespan of a water heater?",
+      "section": "Frequently asked questions about water heater replacement cost",
+      "reason": "People Also Ask question that none of the top 4 results answer under a heading."
+    },
+    {
+      "type": "uncovered_related_search",
+      "topic": "Tankless Water Heater Replacement Cost",
+      "section": "Tankless Water Heater Replacement Cost",
+      "reason": "Related search that only 1 of the top 4 results address as a section."
+    },
+    {
+      "type": "uncovered_related_search",
+      "topic": "Water Heater Replacement Cost Calculator",
+      "section": "Water Heater Replacement Cost Calculator",
+      "reason": "Related search that only 0 of the top 4 results address as a section."
+    }
+  ],
+  "serp_summary": {
+    "location": "Austin, Texas, United States",
+    "top_results": [
+      {
+        "position": 1,
+        "title": "How Much Does it Cost to Install a Water Heater?",
+        "url": "https://www.greatpros.com/blog/How-Much-Does-it-Cost-to-Install-a-Water-Heater",
+        "domain": "greatpros.com",
+        "resolved": true,
+        "snippet": "your total cost with the unit and labor included will range anywhere between $500 and $5000. Unless you choose a tankless heater, you can ..."
+      },
+      {
+        "position": 2,
+        "title": "Water Heater Replacement Cost Chicago",
+        "url": "https://www.jsewerandplumbing.com/blog/what-is-the-average-cost-of-installing-a-new-water-heater/",
+        "domain": "jsewerandplumbing.com",
+        "resolved": true,
+        "snippet": "There isn't one set price. Your water heater replacement cost depends on several factors, including: Whether it is site estimate before the work begins. Larger ..."
+      },
+      {
+        "position": 3,
+        "title": "How Much to Replace Water Heater? 7 Costs to Consider",
+        "url": "https://www.youtube.com/watch?v=OCZ_ZHx_PVg",
+        "domain": "youtube.com",
+        "resolved": true,
+        "snippet": "2. Professional Installation and Labor Costs. Repairing is usually cheaper for minor issues, such as a faulty thermostat or heating element."
+      },
+      {
+        "position": 4,
+        "title": "What is Water Heater Installation Cost - Golden Rule",
+        "url": "https://goldenrulephc.com/blog/cost-to-install-a-tank-water-heater/",
+        "domain": "goldenrulephc.com",
+        "resolved": true,
+        "snippet": "On average the cost of water heater, installing a tank water heater in Iowa costs anywhere from $2,400 to $3,000."
+      },
+      {
+        "position": 5,
+        "title": "Water Heater Replacement Cost in MA: What Affects It",
+        "url": "https://www.google.com/goto?url=CAESlgEBxCJF148j3pyRcI2n_30vXHwpgcokXCeFGSexOeJM033KnCkA3kbpQ68OGd-xkVxX1q23VKtAFUSV3ZL8mQGjC6I9Hf66OGg1loK6eCylTM0zceEVaWHw_b9C6zAD4mb25DquRLuid-2x7Jz3P8A-MOQcjI4XcQQQcK0cGZarhLMQ25aVV8eFVLVBPXpi8jJ0a5MZ2_s",
+        "domain": "armusmech.net",
+        "resolved": false,
+        "snippet": "This guide explains what sets the cost, We do not list prices. Tankless, heat pump and indirect units cost. Call 508-521-9477, answered 24/7, or tap Book ASAP."
+      },
+      {
+        "position": 6,
+        "title": "How To Affordably Replace Your Hot Water Heater",
+        "url": "https://www.google.com/goto?url=CAESigEBxCJF1yJoJ5XZ8tdd1K6ooKM_0gGgaNszHU38KWX8panRR-Sbt_fG96gR4E0GWLs6ybsbOSpIBB_U0nUX99Lj8zC4_mcJUOQkO1kf6cV1cRLch9XH4zaaHfwEQ5Of7Y3ZMskm3lA7Aw-EqQNhxwlci2N7EKuALKjiP1wuGkaCPzgSdHRcpPssHAE",
+        "domain": "majewskiplumbing.com",
+        "resolved": false,
+        "snippet": "Buying and installing a new water heater will range from $800 and $1,550. On average, you can expect to pay around $1,200,"
+      }
+    ],
+    "people_also_ask": [
+      {
+        "question": "Is it expensive to replace a water heater?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      },
+      {
+        "question": "What are common water heater problems?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      },
+      {
+        "question": "What size water heater do I need?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      },
+      {
+        "question": "What's the average lifespan of a water heater?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      }
+    ],
+    "related_searches": [
+      "Tankless water heater replacement cost",
+      "Water heater replacement cost calculator",
+      "Natural gas water heater replacement cost",
+      "Electric water heater replacement cost"
+    ],
+    "top5_pages": [
+      {
+        "url": "https://www.jsewerandplumbing.com/blog/what-is-the-average-cost-of-installing-a-new-water-heater/",
+        "word_count": 1386,
+        "h2": [
+          "What Affects Water Heater Installation Cost?",
+          "Does It Cost More to Install a Tankless Water Heater?",
+          "What Should a Water Heater Installation Estimate Include?",
+          "Should You Repair or Replace Your Water Heater?",
+          "Water Heater Replacement Cost FAQs",
+          "Get a Water Heater Installation Estimate in Chicago",
+          "We Always Put Our Customers First",
+          "How Can We Help You Today?"
+        ]
+      },
+      {
+        "url": "https://goldenrulephc.com/blog/cost-to-install-a-tank-water-heater/",
+        "word_count": 1324,
+        "h2": [
+          "Want an exact price estimate from a professional plumber?",
+          "Your Household’s Hot Water Usage",
+          "Fuel Type",
+          "Efficiency Rating",
+          "Labor Costs"
+        ]
+      },
+      {
+        "url": "https://www.google.com/goto?url=CAESlgEBxCJF148j3pyRcI2n_30vXHwpgcokXCeFGSexOeJM033KnCkA3kbpQ68OGd-xkVxX1q23VKtAFUSV3ZL8mQGjC6I9Hf66OGg1loK6eCylTM0zceEVaWHw_b9C6zAD4mb25DquRLuid-2x7Jz3P8A-MOQcjI4XcQQQcK0cGZarhLMQ25aVV8eFVLVBPXpi8jJ0a5MZ2_s",
+        "word_count": 660,
+        "h2": [
+          "What types of water heater are there?",
+          "How much does a water heater replacement cost?",
+          "How can you manage the cost?",
+          "Why replace instead of repair?",
+          "In Massachusetts and Rhode Island",
+          "Get a water heater quote"
+        ]
+      },
+      {
+        "url": "https://www.google.com/goto?url=CAESigEBxCJF1yJoJ5XZ8tdd1K6ooKM_0gGgaNszHU38KWX8panRR-Sbt_fG96gR4E0GWLs6ybsbOSpIBB_U0nUX99Lj8zC4_mcJUOQkO1kf6cV1cRLch9XH4zaaHfwEQ5Of7Y3ZMskm3lA7Aw-EqQNhxwlci2N7EKuALKjiP1wuGkaCPzgSdHRcpPssHAE",
+        "word_count": 1394,
+        "h2": [
+          "Check The Age Of Your Water Heater",
+          "Stay On Top Of Regular Maintenance",
+          "Perform A Technical Inspection",
+          "Finance Your Water Heater",
+          "Majewski Plumbing",
+          "Frequently Asked Questions",
+          "Majewski Plumbing"
+        ]
+      }
+    ],
+    "average_top5_word_count": 1191,
+    "minimum_length_rule": 1200,
+    "pages_analysed": 4
+  },
+  "metrics": {
+    "volume": 40500,
+    "kd": 12.0,
+    "score": 4673.08,
+    "cpc": 16.66
+  }
+}

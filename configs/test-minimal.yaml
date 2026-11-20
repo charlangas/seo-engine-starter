@@ -1,0 +1,21 @@
+# Minimal config used by the self-verification tests (tests/).
+site_name: Test Minimal
+domain: example-plumbing.com
+business_type: local_services
+niche_description: Residential plumbing repair and water heater service for homeowners.
+seed_keywords:
+  - water heater repair
+  - emergency plumber
+location: Austin, Texas, United States
+output_directory: ./output/test-minimal/blog
+enable_directory: true
+directory_type: local_services
+directory_categories:
+  - plumbers
+volume_floor: 200
+kd_max: 40
+max_keywords_per_run: 2
+cadence_per_week: 3
+directory_listings_per_category: 4
+# Tests must be deterministic and free: never use a paid writing model here.
+writer_backend: template

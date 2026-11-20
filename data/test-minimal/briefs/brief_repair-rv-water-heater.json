@@ -1,0 +1,284 @@
+{
+  "primary_keyword": "repair rv water heater",
+  "slug": "repair-rv-water-heater",
+  "secondary_keywords": [
+    "instant water heater repair"
+  ],
+  "intent": "transactional",
+  "target_word_count": 1000,
+  "outline": [
+    {
+      "h2": "Repair rv water heater: what you actually get",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "Repair rv water heater pricing: what drives the cost",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "Repair rv water heater: how to choose a provider",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "Repair rv water heater: what to check before you commit",
+      "h3": [],
+      "source": "intent_skeleton",
+      "gap": false,
+      "coverage": 0
+    },
+    {
+      "h2": "How to replace a camper hot water heater?",
+      "h3": [],
+      "source": "gap:unanswered_paa",
+      "gap": true,
+      "top_results_with_h2": 0
+    },
+    {
+      "h2": "How long will a water heater last once it starts leaking?",
+      "h3": [],
+      "source": "gap:unanswered_paa",
+      "gap": true,
+      "top_results_with_h2": 0
+    },
+    {
+      "h2": "Frequently asked questions about repair rv water heater",
+      "h3": [
+        "Why does my tankless hot water heater get hot and then cold?",
+        "Why is my RV water heater not heating on electric?",
+        "What does repair rv water heater involve?"
+      ],
+      "source": "people_also_ask",
+      "gap": false,
+      "faq": true
+    }
+  ],
+  "placement_rules": {
+    "primary_keyword_in": [
+      "title",
+      "h1",
+      "first_100_words",
+      "meta_description",
+      "at_least_one_h2"
+    ],
+    "secondary_keywords": "use each at most twice, only where it reads naturally",
+    "intro_max_words": 150,
+    "faq": "final H2, one H3 per question, answers 40-90 words",
+    "structure": "at least one list or table; one analogy or named mental model per major H2",
+    "meta_description_chars": [
+      50,
+      160
+    ],
+    "internal_links": "link each internal_link_target once, in body paragraphs, never in headings",
+    "directory_links_min": 2,
+    "external_links": "cite each external source once with descriptive anchor text"
+  },
+  "external_sources": [
+    {
+      "title": "Can You Repair a Damaged Camper Water Heater?",
+      "url": "https://quickwaterheater.com/uncategorized/can-you-repair-a-damaged-camper-water-heater/",
+      "domain": "quickwaterheater.com"
+    },
+    {
+      "title": "RV Water Heater Parts | News, Tips, & Tricks - The RV Universe",
+      "url": "https://www.thervuniverse.com/rv-parts/rv-water-heater-parts",
+      "domain": "thervuniverse.com"
+    }
+  ],
+  "internal_link_targets": [
+    {
+      "url": "/blog/camper-water-heater-repair/",
+      "anchor": "Camper water heater repair: Costs, Choices and What to Check First",
+      "type": "article",
+      "relevance": 3,
+      "rating": 0
+    },
+    {
+      "url": "/blog/instant-water-heater-repair/",
+      "anchor": "Instant water heater repair: Costs, Choices and What to Check First",
+      "type": "article",
+      "relevance": 3,
+      "rating": 0
+    },
+    {
+      "url": "/blog/tankless-water-heater-installation/",
+      "anchor": "Tankless water heater installation: Costs, Choices and What to Check First",
+      "type": "article",
+      "relevance": 2,
+      "rating": 0
+    },
+    {
+      "url": "/blog/electric-tankless-water-heater/",
+      "anchor": "Electric tankless water heater: Costs, Choices and What to Check First",
+      "type": "article",
+      "relevance": 2,
+      "rating": 0
+    },
+    {
+      "url": "/directory/plumbers/",
+      "anchor": "plumbers in Austin directory",
+      "type": "directory_category",
+      "relevance": 0,
+      "rating": 0
+    },
+    {
+      "url": "/directory/plumbers/plumb-masters-inc/",
+      "anchor": "Plumb Masters, Inc.",
+      "type": "directory_listing",
+      "relevance": 0,
+      "rating": 4.8
+    },
+    {
+      "url": "/directory/plumbers/beyond-wow-plumbing-drains/",
+      "anchor": "Beyond Wow Plumbing & Drains",
+      "type": "directory_listing",
+      "relevance": 0,
+      "rating": 4.8
+    },
+    {
+      "url": "/directory/plumbers/reliant-plumbing/",
+      "anchor": "Reliant Plumbing",
+      "type": "directory_listing",
+      "relevance": 0,
+      "rating": 4.7
+    }
+  ],
+  "schema_type": "Service",
+  "gaps_to_address": [
+    {
+      "type": "unanswered_paa",
+      "topic": "How to replace a camper hot water heater?",
+      "section": "How to replace a camper hot water heater?",
+      "reason": "People Also Ask question that none of the top 3 results answer under a heading."
+    },
+    {
+      "type": "unanswered_paa",
+      "topic": "How long will a water heater last once it starts leaking?",
+      "section": "How long will a water heater last once it starts leaking?",
+      "reason": "People Also Ask question that none of the top 3 results answer under a heading."
+    },
+    {
+      "type": "unanswered_paa",
+      "topic": "Why does my tankless hot water heater get hot and then cold?",
+      "section": "Frequently asked questions about repair rv water heater",
+      "reason": "People Also Ask question that none of the top 3 results answer under a heading."
+    },
+    {
+      "type": "unanswered_paa",
+      "topic": "Why is my RV water heater not heating on electric?",
+      "section": "Frequently asked questions about repair rv water heater",
+      "reason": "People Also Ask question that none of the top 3 results answer under a heading."
+    }
+  ],
+  "serp_summary": {
+    "location": "Austin, Texas, United States",
+    "top_results": [
+      {
+        "position": 1,
+        "title": "RV Water Heater Parts | News, Tips, & Tricks - The RV Universe",
+        "url": "https://www.thervuniverse.com/rv-parts/rv-water-heater-parts",
+        "domain": "thervuniverse.com",
+        "resolved": true,
+        "snippet": "Find the best RV Water Heater Parts library on our comprehensive wiki. Solve common issues with your RV water heater using our comprehensive troublesho... Find ..."
+      },
+      {
+        "position": 2,
+        "title": "Repair Manual for RV Hot Water Heater",
+        "url": "https://quickwaterheater.com/uncategorized/repair-manual-for-rv-hot-water-heater/",
+        "domain": "quickwaterheater.com",
+        "resolved": true,
+        "snippet": "This repair manual provides comprehensive instructions for troubleshooting and fixing common issues with RV hot water heaters."
+      },
+      {
+        "position": 3,
+        "title": "Can You Repair a Damaged Camper Water Heater?",
+        "url": "https://quickwaterheater.com/uncategorized/can-you-repair-a-damaged-camper-water-heater/",
+        "domain": "quickwaterheater.com",
+        "resolved": true,
+        "snippet": "There are various DIY techniques available for repairing a damaged camper water heater, which can include troubleshooting the heating elements, ..."
+      },
+      {
+        "position": 4,
+        "title": "Mobile Rv Water Heater Repair",
+        "url": "https://www.instagram.com/popular/mobile-rv-water-heater-repair/",
+        "domain": "instagram.com",
+        "resolved": true,
+        "snippet": "Watch short videos about mobile rv water heater repair. Book your call, and protect your rig. ☎ +1 716-218-4033"
+      }
+    ],
+    "people_also_ask": [
+      {
+        "question": "How to replace a camper hot water heater?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      },
+      {
+        "question": "How long will a water heater last once it starts leaking?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      },
+      {
+        "question": "Why does my tankless hot water heater get hot and then cold?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      },
+      {
+        "question": "Why is my RV water heater not heating on electric?",
+        "snippet": "",
+        "source_url": "",
+        "source_title": ""
+      }
+    ],
+    "related_searches": [],
+    "top5_pages": [
+      {
+        "url": "https://www.thervuniverse.com/rv-parts/rv-water-heater-parts",
+        "word_count": 207,
+        "h2": [
+          "Best RV Water Heater Parts",
+          "View RV Water Heater Parts"
+        ]
+      },
+      {
+        "url": "https://quickwaterheater.com/uncategorized/repair-manual-for-rv-hot-water-heater/",
+        "word_count": 276,
+        "h2": [
+          "Information an RV technician needs",
+          "Leaks and a heater that will not start",
+          "Use the exact repair manual",
+          "More specialist systems guides"
+        ]
+      },
+      {
+        "url": "https://quickwaterheater.com/uncategorized/can-you-repair-a-damaged-camper-water-heater/",
+        "word_count": 276,
+        "h2": [
+          "Information an RV technician needs",
+          "Leaks and a heater that will not start",
+          "Use the exact repair manual",
+          "More specialist systems guides"
+        ]
+      }
+    ],
+    "average_top5_word_count": 253,
+    "minimum_length_rule": 1000,
+    "pages_analysed": 3
+  },
+  "metrics": {
+    "volume": 18100,
+    "kd": 0.0,
+    "score": 27150.0,
+    "cpc": 7.38
+  }
+}

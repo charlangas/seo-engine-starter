@@ -1,0 +1,29 @@
+site_name: Austin Plumbing Pros
+domain: austinplumbingpros.com
+business_type: local_services
+niche_description: Residential plumbing repair, drain cleaning and water heater service for Austin homeowners.
+seed_keywords:
+  - emergency plumber
+  - water heater repair
+  - drain cleaning
+location: Austin, Texas, United States
+output_directory: ../austin-plumbing-site/src/content/blog
+enable_directory: true
+directory_type: local_services
+directory_categories:
+  - plumbers
+  - water heater installers
+listing_fields: [address, phone, website, rating, reviews, hours]
+# Keep listings out of the blog collection by giving them their own folder:
+directory_output_directory: ../austin-plumbing-site/src/content/directory
+volume_floor: 200
+kd_max: 40
+max_keywords_per_run: 10          # pages per manual `run`; autopilot follows the publishing schedule
+# New pages a week. Start at 2; the weekly report says when the signals support more.
+publishing:
+  per_week: 2
+  ramp: {to: 4}
+# Monthly spending cap for this site, in dollars, across DataForSEO, SerpAPI and OpenRouter.
+budget:
+  monthly_usd: 50
+brand_terms: [roto-rooter, mr rooter]

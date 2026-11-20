@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+cache/
+logs/
+dry-run/
+output/
+spend/
+data/*
+!data/test-minimal/
+# your site configs stay local; the examples are shared
+configs/*
+!configs/example-local-services.yaml
+!configs/test-minimal.yaml
